@@ -33,3 +33,103 @@ The dataset structure mirrors what would typically be available in a real on-dem
 - Scenario modeling for strategic decision-making
 - Interactive dashboard for stakeholder consumption
 - Executive summary with actionable recommendations
+
+
+# Data Model & Assumptions
+
+This project uses synthetic but realistic datasets designed to mimic data commonly available in an on-demand services business. The data is intentionally imperfect to reflect real-world analytical challenges.
+
+---
+
+## Tables Overview
+
+### 1. customers
+Represents unique customers who have placed at least one order.
+
+**Columns**
+- customer_id: Unique customer identifier
+- signup_date: Date the customer first registered
+- acquisition_channel: Marketing channel through which the customer was acquired
+- region: Customer’s primary operating region
+
+**Assumptions**
+- Each customer is associated with a single acquisition channel
+- Region is fixed for the customer lifecycle
+
+---
+
+### 2. orders
+Represents individual service orders placed by customers.
+
+**Columns**
+- order_id: Unique order identifier
+- customer_id: Identifier linking to customers table
+- service_type: Category of service requested
+- order_date: Date the order was completed
+- order_value: Revenue generated from the order
+- refund_flag: Indicates whether the order was refunded
+
+**Assumptions**
+- Orders are completed on the same day they are recorded
+- Refunds negate revenue but may still incur costs
+
+---
+
+### 3. costs
+Represents operational costs associated with fulfilling orders.
+
+**Columns**
+- order_id: Identifier linking to orders table
+- variable_cost: Cost directly related to service fulfillment
+- delivery_cost: Logistics or dispatch-related cost
+- support_cost: Customer support cost attributed to the order
+
+**Assumptions**
+- All costs are recorded at the order level
+- Some orders may be unprofitable due to high support or delivery costs
+
+---
+
+### 4. marketing_spend
+Tracks marketing investments by acquisition channel over time.
+
+**Columns**
+- channel: Marketing acquisition channel
+- date: Date of spend
+- spend: Total spend for the channel on that date
+
+**Assumptions**
+- Marketing spend is aggregated daily
+- Attribution is based on first-touch acquisition
+
+---
+
+### 5. support_tickets
+Represents customer support interactions related to orders.
+
+**Columns**
+- ticket_id: Unique support ticket identifier
+- order_id: Identifier linking to orders table
+- created_at: Timestamp of ticket creation
+- resolution_cost: Cost incurred to resolve the ticket
+
+**Assumptions**
+- An order may have multiple support tickets
+- Support costs can exceed order revenue in edge cases
+
+---
+
+## Key Relationships
+- customers (1) → orders (many)
+- orders (1) → costs (1)
+- orders (1) → support_tickets (many)
+- marketing_spend is linked to customers via acquisition_channel
+
+---
+
+## Known Limitations
+- No explicit attribution window for marketing spend
+- No customer churn flag (derived analytically)
+- No fixed cost allocation (focus is contribution margin)
+
+These limitations are intentional and will be addressed through analytical assumptions.
