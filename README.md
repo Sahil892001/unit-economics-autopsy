@@ -133,3 +133,18 @@ Represents customer support interactions related to orders.
 - No fixed cost allocation (focus is contribution margin)
 
 These limitations are intentional and will be addressed through analytical assumptions.
+
+---
+
+## Data Validation & Trust Checks
+
+The following validation checks were performed before downstream analysis:
+
+- Row counts across all tables aligned with expected data volumes
+- No orphaned foreign key relationships detected between orders and customers
+- No negative or zero order revenue observed
+- Refund rate falls within a realistic operational range (~5–7%)
+- Presence of extreme support cost outliers is intentional and reflects real-world heavy-tail behavior
+- All orders have corresponding cost records
+
+Based on these checks, the dataset is considered suitable for unit economics and cohort-level analysis.
