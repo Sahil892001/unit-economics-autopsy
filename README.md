@@ -148,3 +148,8 @@ The following validation checks were performed before downstream analysis:
 - All orders have corresponding cost records
 
 Based on these checks, the dataset is considered suitable for unit economics and cohort-level analysis.
+
+---
+
+## Processed Data
+Processed datasets standardize types, add derived time fields, and compute order-level unit economics. Raw data remains unchanged to preserve lineage.
