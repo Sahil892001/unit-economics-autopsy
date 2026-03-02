@@ -1,15 +1,53 @@
-# virtual environment
-venv/
+# =============================================================================
+# .gitignore — Unit Economics Intelligence Platform
+# =============================================================================
 
-# python cache
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+ENV/
 
-# notebooks
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# data outputs (optional later)
-*.db
+# ── Data Files (raw & processed CSVs/DB — not for version control) ───────────
+data/raw/*.csv
+data/processed/*.csv
+data/outputs/*.csv
+data/outputs/*.png
+data/*.db
+*.sqlite
+*.sqlite3
 
-# OS
+# ── OS & Editor ───────────────────────────────────────────────────────────────
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Keep folder structure ─────────────────────────────────────────────────────
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/outputs/.gitkeep
