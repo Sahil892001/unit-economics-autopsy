@@ -1,0 +1,4 @@
+service_type,orders,customers,total_revenue,total_cost,variable_cost,delivery_cost,support_cost,total_margin,avg_margin,median_margin,profitable_pct,refund_rate,avg_order_value,high_support_pct,margin_pct,cost_ratio,support_ratio
+Express,47306,17054,6263538.64,5801445.26,4095252.4,1043112.35,663080.51,462093.38,9.77,19.83,0.76,0.08,144.43,0.04,7.38,92.62,10.59
+Premium,53646,17787,4717920.72,4412405.99,2493456.99,1175053.88,743895.12,305514.73,5.7,11.18,0.71,0.05,92.98,0.04,6.48,93.52,15.77
+Standard,99048,19591,4935171.85,5807828.18,2302478.56,2134176.65,1371172.97,-872656.33,-8.81,-4.39,0.38,0.03,51.63,0.04,-17.68,117.68,27.78

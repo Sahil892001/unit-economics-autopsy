@@ -1,0 +1,16 @@
+reallocation_pct,from_channel,to_channel,orders_reallocated,margin_gain,new_total_margin
+10%,Paid Search,Organic,8956,13135.08,-91913.14
+10%,Paid Search,Referral,8956,-890.69,-105938.91
+10%,Paid Search,Social,8956,901.66,-104146.56
+20%,Paid Search,Organic,17912,26270.17,-78778.05
+20%,Paid Search,Referral,17912,-1781.38,-106829.6
+20%,Paid Search,Social,17912,1803.32,-103244.9
+30%,Paid Search,Organic,26868,39405.25,-65642.97
+30%,Paid Search,Referral,26868,-2672.07,-107720.29
+30%,Paid Search,Social,26868,2704.98,-102343.24
+40%,Paid Search,Organic,35824,52540.34,-52507.88
+40%,Paid Search,Referral,35824,-3562.76,-108610.98
+40%,Paid Search,Social,35824,3606.64,-101441.58
+50%,Paid Search,Organic,44781,65676.89,-39371.33
+50%,Paid Search,Referral,44781,-4453.55,-109501.77
+50%,Paid Search,Social,44781,4508.41,-100539.81

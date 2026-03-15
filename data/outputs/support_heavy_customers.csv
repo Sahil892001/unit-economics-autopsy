@@ -1,0 +1,2000 @@
+customer_id,total_support_cost,total_margin,orders,avg_order_value,acquisition_channel,region,is_power_user,is_profitable_customer,support_to_margin_ratio
+25,278.83,-34.16,15,84.0,Organic,East,0,False,278.83
+45,695.97,403.97,46,93.54,Paid Search,South,1,True,1.72
+51,859.12,-606.78,48,91.91,Paid Search,South,1,False,859.12
+73,235.15,51.38,10,90.2,Organic,East,0,True,4.58
+92,449.97,-140.53,36,80.5,Organic,West,1,False,449.97
+94,778.24,159.21,61,82.27,Paid Search,North,1,True,4.89
+115,246.99,-147.84,13,72.79,Organic,West,0,False,246.99
+122,879.73,-43.87,56,89.29,Social,West,1,False,879.73
+129,565.12,399.32,52,82.37,Paid Search,North,1,True,1.42
+137,685.47,-350.04,57,69.33,Paid Search,East,1,False,685.47
+147,380.15,-368.0,11,51.74,Social,West,0,False,380.15
+165,289.97,-176.95,11,58.76,Paid Search,North,0,False,289.97
+167,299.41,-142.05,10,70.98,Organic,East,0,False,299.41
+171,239.39,60.33,13,107.26,Social,West,0,True,3.97
+181,582.43,356.89,41,90.5,Social,East,1,True,1.63
+187,1257.01,-557.4,54,87.68,Paid Search,East,1,False,1257.01
+196,363.46,-258.86,11,62.96,Referral,West,0,False,363.46
+197,412.99,-53.15,37,82.24,Organic,East,1,False,412.99
+198,942.8,-819.34,45,79.0,Paid Search,East,1,False,942.8
+202,773.85,211.47,45,79.67,Paid Search,West,1,True,3.66
+210,693.21,305.02,56,75.92,Paid Search,South,1,True,2.27
+216,251.17,-170.05,13,90.91,Paid Search,South,0,False,251.17
+224,547.56,223.05,43,92.13,Referral,South,1,True,2.45
+242,917.25,-439.82,52,76.88,Referral,North,1,False,917.25
+266,299.52,-323.14,8,105.97,Paid Search,South,0,False,299.52
+276,259.3,-293.73,10,130.3,Paid Search,West,0,False,259.3
+291,705.3,145.52,55,77.22,Referral,North,1,True,4.85
+306,425.96,-325.85,16,89.8,Organic,South,0,False,425.96
+310,330.12,18.48,17,87.79,Referral,West,0,True,17.86
+319,285.02,-351.06,11,83.75,Paid Search,South,0,False,285.02
+325,263.15,-408.51,12,77.13,Paid Search,North,0,False,263.15
+337,258.14,-49.46,12,94.92,Referral,North,0,False,258.14
+341,234.19,-368.19,16,79.02,Social,West,0,False,234.19
+351,769.54,-198.33,58,87.95,Paid Search,East,1,False,769.54
+354,270.59,-153.83,10,89.41,Organic,South,0,False,270.59
+359,279.11,-144.65,8,106.1,Paid Search,North,0,False,279.11
+396,231.82,-254.53,13,88.27,Paid Search,North,0,False,231.82
+400,547.22,-20.71,48,81.56,Organic,East,1,False,547.22
+418,232.65,-15.63,10,91.17,Social,West,0,False,232.65
+424,234.95,-108.37,9,81.87,Organic,North,0,False,234.95
+427,400.74,-223.05,10,72.6,Organic,East,0,False,400.74
+435,562.98,232.35,40,77.96,Organic,West,1,True,2.42
+444,513.95,31.53,45,81.39,Organic,West,1,True,16.3
+449,842.6,69.31,52,95.36,Organic,South,1,True,12.16
+473,231.66,-86.11,10,81.39,Paid Search,West,0,False,231.66
+506,709.0,224.49,54,84.61,Organic,East,1,True,3.16
+519,254.09,-59.03,9,100.81,Social,North,0,False,254.09
+520,256.76,-152.33,8,72.89,Organic,South,0,False,256.76
+530,596.77,16.73,53,89.03,Organic,West,1,True,35.67
+531,549.09,193.82,41,93.94,Paid Search,East,1,True,2.83
+542,248.83,-229.28,12,91.51,Paid Search,South,0,False,248.83
+543,277.76,-116.68,6,111.7,Social,West,0,False,277.76
+544,740.15,-290.22,51,79.97,Paid Search,East,1,False,740.15
+553,239.03,-313.85,8,93.74,Paid Search,North,0,False,239.03
+565,562.0,60.88,42,83.1,Organic,South,1,True,9.23
+568,370.53,-72.37,30,99.88,Paid Search,East,1,False,370.53
+585,515.58,-17.9,48,84.05,Organic,South,1,False,515.58
+587,253.93,-50.35,14,81.81,Paid Search,South,0,False,253.93
+594,957.45,-7.07,57,87.53,Organic,West,1,False,957.45
+626,417.29,-235.95,12,102.94,Paid Search,West,0,False,417.29
+638,477.42,226.45,39,84.28,Paid Search,East,1,True,2.11
+642,300.85,27.7,14,93.82,Paid Search,South,0,True,10.86
+660,782.61,-616.08,48,82.07,Paid Search,West,1,False,782.61
+662,271.55,-18.72,17,94.42,Organic,East,0,False,271.55
+666,696.07,-416.09,38,93.19,Referral,East,1,False,696.07
+669,289.26,-12.56,14,90.22,Organic,North,0,False,289.26
+675,411.26,434.7,46,84.17,Referral,North,1,True,0.95
+683,283.69,-281.96,9,66.21,Organic,South,0,False,283.69
+692,295.13,-23.42,12,91.76,Social,East,0,False,295.13
+694,797.27,54.24,55,85.46,Social,South,1,True,14.7
+708,523.53,1.45,48,87.63,Paid Search,West,1,True,361.06
+727,277.64,-46.44,15,62.29,Referral,East,0,False,277.64
+741,666.12,-238.62,40,76.29,Referral,West,1,False,666.12
+776,329.96,-246.77,7,63.49,Social,South,0,False,329.96
+786,769.03,-354.92,43,102.66,Paid Search,North,1,False,769.03
+788,733.29,248.85,67,84.96,Referral,North,1,True,2.95
+798,407.9,92.54,41,81.52,Paid Search,East,1,True,4.41
+805,471.54,66.09,43,88.55,Organic,South,1,True,7.13
+811,237.06,-86.97,13,94.9,Organic,West,0,False,237.06
+815,789.54,-630.94,59,85.71,Paid Search,North,1,False,789.54
+842,438.99,-84.26,38,96.45,Referral,East,1,False,438.99
+850,293.31,-230.21,9,72.81,Paid Search,West,0,False,293.31
+853,346.25,-223.67,16,86.42,Paid Search,East,0,False,346.25
+862,506.09,379.26,47,86.58,Paid Search,North,1,True,1.33
+864,729.68,-142.65,47,77.22,Social,North,1,False,729.68
+867,409.21,95.91,42,83.38,Referral,West,1,True,4.27
+887,748.43,-304.43,43,76.37,Social,West,1,False,748.43
+888,584.39,506.82,46,90.44,Paid Search,South,1,True,1.15
+898,258.48,-221.81,9,72.5,Paid Search,West,0,False,258.48
+907,463.3,266.78,49,82.3,Referral,West,1,True,1.74
+908,260.23,-75.89,13,87.58,Organic,North,0,False,260.23
+921,244.6,-109.95,12,84.56,Social,South,0,False,244.6
+937,598.29,163.57,47,75.58,Paid Search,South,1,True,3.66
+938,237.49,9.7,12,89.37,Paid Search,West,0,True,24.48
+945,504.36,586.52,51,90.36,Organic,West,1,True,0.86
+979,238.95,38.65,13,76.78,Paid Search,West,0,True,6.18
+981,688.75,-673.27,50,87.67,Social,East,1,False,688.75
+990,541.67,-139.35,40,77.63,Organic,South,1,False,541.67
+1014,312.23,-191.26,12,106.22,Paid Search,South,0,False,312.23
+1024,255.7,-184.52,11,62.35,Paid Search,South,0,False,255.7
+1026,1009.24,-407.47,56,79.03,Referral,North,1,False,1009.24
+1033,255.74,-122.71,16,65.8,Paid Search,South,0,False,255.74
+1043,243.88,-114.8,9,92.02,Social,North,0,False,243.88
+1050,234.8,36.54,13,71.91,Paid Search,North,0,True,6.43
+1053,812.41,-137.81,46,104.12,Organic,West,1,False,812.41
+1062,299.99,-133.18,12,106.13,Organic,East,0,False,299.99
+1063,634.91,111.05,47,87.9,Paid Search,East,1,True,5.72
+1064,488.69,68.63,45,77.59,Paid Search,North,1,True,7.12
+1073,965.62,-164.26,56,79.47,Paid Search,East,1,False,965.62
+1083,802.46,-80.26,58,74.73,Paid Search,East,1,False,802.46
+1091,784.77,-121.65,51,86.71,Organic,South,1,False,784.77
+1102,271.82,-161.02,14,93.35,Paid Search,East,0,False,271.82
+1106,276.91,-2.49,13,84.41,Paid Search,East,0,False,276.91
+1116,236.24,-215.62,10,89.23,Paid Search,South,0,False,236.24
+1120,493.96,280.31,44,85.31,Organic,West,1,True,1.76
+1131,727.42,-284.87,45,85.42,Social,East,1,False,727.42
+1176,758.57,43.67,60,88.58,Organic,East,1,True,17.37
+1180,996.68,-171.95,56,77.79,Paid Search,South,1,False,996.68
+1200,477.61,285.31,46,87.89,Paid Search,West,1,True,1.67
+1207,234.02,-289.7,10,96.51,Organic,South,0,False,234.02
+1213,233.73,-67.74,15,89.84,Organic,North,0,False,233.73
+1235,638.14,-176.87,48,69.83,Organic,North,1,False,638.14
+1243,360.97,-277.33,17,86.43,Paid Search,North,0,False,360.97
+1245,260.54,-287.11,9,80.73,Organic,North,0,False,260.54
+1255,990.44,-375.53,61,90.59,Paid Search,East,1,False,990.44
+1257,625.94,170.75,40,88.5,Paid Search,East,1,True,3.67
+1269,545.66,-123.08,48,75.1,Social,East,1,False,545.66
+1270,244.3,13.09,11,102.39,Organic,East,0,True,18.66
+1281,238.5,-78.75,13,82.63,Paid Search,North,0,False,238.5
+1288,555.24,22.98,32,92.36,Paid Search,West,1,True,24.16
+1304,696.44,-58.54,49,82.55,Referral,West,1,False,696.44
+1307,799.99,-719.46,44,82.58,Paid Search,South,1,False,799.99
+1325,230.88,-158.85,8,85.07,Organic,North,0,False,230.88
+1335,591.37,23.21,48,92.15,Organic,North,1,True,25.48
+1370,241.67,67.78,12,104.89,Paid Search,West,0,True,3.57
+1391,327.82,16.81,17,93.1,Organic,East,0,True,19.5
+1416,804.69,-707.54,51,89.0,Paid Search,East,1,False,804.69
+1436,595.9,562.49,48,81.88,Paid Search,South,1,True,1.06
+1438,566.04,106.6,41,78.19,Referral,East,1,True,5.31
+1445,278.84,-345.05,14,81.63,Organic,East,0,False,278.84
+1452,308.88,-279.39,9,97.14,Organic,South,0,False,308.88
+1456,332.83,-328.46,14,77.14,Paid Search,East,0,False,332.83
+1475,768.64,409.66,54,87.3,Organic,North,1,True,1.88
+1490,240.59,-252.43,8,83.64,Paid Search,East,0,False,240.59
+1496,773.02,302.51,59,86.88,Organic,South,1,True,2.56
+1498,400.21,-164.76,15,69.95,Social,West,0,False,400.21
+1523,658.91,-10.08,43,91.29,Paid Search,East,1,False,658.91
+1542,683.35,583.08,50,89.35,Organic,West,1,True,1.17
+1555,233.92,77.75,15,87.86,Paid Search,North,0,True,3.01
+1560,773.8,-111.15,54,90.27,Paid Search,North,1,False,773.8
+1580,285.72,-223.23,8,61.56,Paid Search,West,0,False,285.72
+1618,267.79,-102.65,13,79.95,Paid Search,South,0,False,267.79
+1622,673.81,22.69,52,80.85,Paid Search,South,1,True,29.7
+1626,301.92,-196.04,15,90.97,Paid Search,East,0,False,301.92
+1632,252.35,-23.19,6,123.92,Organic,South,0,False,252.35
+1635,530.03,-13.32,47,109.29,Paid Search,South,1,False,530.03
+1650,233.55,-102.21,12,79.04,Organic,South,0,False,233.55
+1652,278.77,10.71,17,85.91,Organic,West,0,True,26.03
+1659,545.4,592.46,55,101.14,Social,North,1,True,0.92
+1674,289.96,-132.03,10,89.62,Organic,North,0,False,289.96
+1677,240.59,89.22,14,80.25,Paid Search,North,0,True,2.7
+1682,281.61,-169.28,8,89.51,Referral,South,0,False,281.61
+1684,471.64,-584.27,15,81.58,Paid Search,South,0,False,471.64
+1706,640.3,384.44,49,92.07,Referral,North,1,True,1.67
+1707,632.08,-110.53,47,78.23,Social,North,1,False,632.08
+1709,594.78,94.51,56,82.03,Organic,West,1,True,6.29
+1711,277.38,-64.75,16,66.3,Referral,North,0,False,277.38
+1724,397.0,506.98,43,74.93,Referral,South,1,True,0.78
+1746,271.05,-77.14,15,68.45,Social,South,0,False,271.05
+1750,396.82,-58.35,36,73.64,Paid Search,East,1,False,396.82
+1759,232.19,-42.56,12,85.92,Paid Search,South,0,False,232.19
+1764,249.7,-30.61,10,120.12,Paid Search,North,0,False,249.7
+1773,262.91,-62.66,12,94.69,Organic,East,0,False,262.91
+1788,252.31,-150.32,13,97.96,Organic,South,0,False,252.31
+1800,793.33,447.82,58,87.32,Paid Search,North,1,True,1.77
+1806,266.37,4.73,12,92.07,Paid Search,West,0,True,56.32
+1812,240.4,38.46,16,102.93,Paid Search,West,0,True,6.25
+1813,250.64,-109.48,11,81.61,Paid Search,North,0,False,250.64
+1822,588.32,-132.73,41,80.98,Referral,East,1,False,588.32
+1861,681.57,-147.12,38,82.2,Organic,East,1,False,681.57
+1877,581.72,34.17,45,90.36,Organic,North,1,True,17.02
+1882,246.03,-69.15,15,73.11,Organic,South,0,False,246.03
+1888,767.92,365.39,51,97.18,Organic,North,1,True,2.1
+1901,284.64,-286.64,9,76.17,Organic,West,0,False,284.64
+1913,234.47,-253.76,11,110.11,Referral,South,0,False,234.47
+1939,631.1,-281.36,42,82.76,Organic,South,1,False,631.1
+1942,486.62,300.52,35,97.14,Referral,North,1,True,1.62
+1945,719.7,-68.62,54,83.43,Organic,East,1,False,719.7
+1949,640.97,412.23,58,96.61,Organic,South,1,True,1.55
+1950,804.09,-309.34,43,79.87,Organic,North,1,False,804.09
+1955,255.94,-112.11,10,100.97,Organic,North,0,False,255.94
+1983,423.73,329.14,44,76.72,Organic,North,1,True,1.29
+2002,523.52,-74.67,41,79.8,Paid Search,East,1,False,523.52
+2018,379.76,-118.85,11,99.23,Paid Search,South,0,False,379.76
+2034,301.59,-152.4,13,89.85,Social,South,0,False,301.59
+2040,251.91,-33.74,8,95.64,Organic,South,0,False,251.91
+2041,1138.51,-456.38,54,82.54,Organic,East,1,False,1138.51
+2050,607.52,543.63,46,96.72,Paid Search,South,1,True,1.12
+2053,588.25,-8.53,39,66.24,Organic,North,1,False,588.25
+2056,702.56,-455.91,45,90.42,Paid Search,East,1,False,702.56
+2065,775.92,151.07,50,71.99,Organic,South,1,True,5.14
+2069,464.51,319.74,44,84.05,Social,East,1,True,1.45
+2072,261.85,-76.06,9,83.18,Referral,East,0,False,261.85
+2074,236.82,-405.26,8,75.41,Paid Search,East,0,False,236.82
+2075,864.96,-670.99,55,91.22,Referral,East,1,False,864.96
+2079,238.47,-0.54,10,104.52,Referral,South,0,False,238.47
+2113,704.71,-134.96,40,89.67,Paid Search,East,1,False,704.71
+2123,351.34,-141.49,14,101.78,Social,North,0,False,351.34
+2129,508.37,339.47,48,104.75,Organic,South,1,True,1.5
+2130,407.69,-226.99,13,93.95,Paid Search,North,0,False,407.69
+2137,270.83,-17.86,16,65.72,Paid Search,North,0,False,270.83
+2145,563.48,378.97,51,94.03,Social,North,1,True,1.49
+2153,366.85,-268.38,12,84.64,Social,South,0,False,366.85
+2193,688.25,-384.7,41,93.34,Paid Search,North,1,False,688.25
+2208,688.14,-428.16,55,95.3,Paid Search,West,1,False,688.14
+2210,1186.55,-807.49,56,89.81,Organic,East,1,False,1186.55
+2216,234.77,-259.3,11,104.21,Social,South,0,False,234.77
+2221,272.89,201.92,16,104.79,Paid Search,East,0,True,1.35
+2224,256.81,-6.9,10,101.81,Organic,South,0,False,256.81
+2227,370.49,-263.17,9,93.72,Referral,East,0,False,370.49
+2234,253.77,-79.23,10,102.81,Referral,North,0,False,253.77
+2238,261.14,-98.26,8,86.9,Social,North,0,False,261.14
+2247,561.42,336.94,53,79.92,Organic,South,1,True,1.67
+2249,670.58,-43.67,53,76.79,Referral,South,1,False,670.58
+2256,928.38,-277.35,54,87.37,Paid Search,North,1,False,928.38
+2264,287.85,-165.8,10,66.69,Paid Search,West,0,False,287.85
+2267,273.21,-126.01,10,73.85,Organic,East,0,False,273.21
+2271,1021.76,36.46,59,77.74,Social,South,1,True,28.02
+2272,698.81,454.1,48,95.62,Organic,West,1,True,1.54
+2273,860.48,-141.64,53,84.43,Organic,West,1,False,860.48
+2288,309.94,-202.12,12,77.44,Organic,South,0,False,309.94
+2308,908.81,-514.78,52,82.79,Paid Search,North,1,False,908.81
+2313,536.57,148.33,53,77.63,Paid Search,South,1,True,3.62
+2334,317.07,-316.12,12,73.28,Referral,South,0,False,317.07
+2341,593.59,-162.76,42,81.25,Paid Search,West,1,False,593.59
+2376,654.17,355.88,52,84.78,Referral,South,1,True,1.84
+2388,546.59,116.84,55,88.26,Paid Search,West,1,True,4.68
+2390,327.23,-188.95,14,69.06,Paid Search,East,0,False,327.23
+2419,284.62,53.54,14,86.4,Organic,East,0,True,5.32
+2445,251.15,-31.48,9,90.9,Social,West,0,False,251.15
+2447,327.5,-126.23,10,85.64,Paid Search,East,0,False,327.5
+2449,356.33,-16.14,38,73.41,Social,East,1,False,356.33
+2452,274.14,-133.41,12,79.38,Paid Search,East,0,False,274.14
+2472,253.28,-303.5,13,102.41,Referral,North,0,False,253.28
+2481,523.33,31.85,37,81.76,Organic,South,1,True,16.43
+2482,788.39,-141.75,56,88.57,Paid Search,North,1,False,788.39
+2489,668.27,-230.88,46,78.86,Referral,South,1,False,668.27
+2502,941.24,-530.42,48,84.64,Paid Search,West,1,False,941.24
+2532,704.0,-334.82,52,86.22,Organic,West,1,False,704.0
+2538,535.82,363.03,47,72.72,Organic,South,1,True,1.48
+2539,635.88,200.04,59,88.32,Social,West,1,True,3.18
+2554,232.97,-291.74,9,81.2,Organic,South,0,False,232.97
+2556,567.57,-4.99,45,85.59,Organic,West,1,False,567.57
+2577,252.64,49.29,15,95.74,Paid Search,South,0,True,5.13
+2590,291.87,-173.18,8,98.74,Social,North,0,False,291.87
+2608,410.12,186.42,40,85.05,Social,North,1,True,2.2
+2620,243.01,-57.93,13,69.75,Paid Search,South,0,False,243.01
+2622,360.35,-232.43,16,82.42,Social,North,0,False,360.35
+2623,264.61,-392.48,8,75.2,Paid Search,East,0,False,264.61
+2624,796.54,-480.68,51,91.93,Paid Search,West,1,False,796.54
+2626,289.15,55.38,13,108.53,Organic,South,0,True,5.22
+2658,728.47,-219.78,52,83.18,Paid Search,North,1,False,728.47
+2665,267.44,-329.53,8,85.09,Referral,South,0,False,267.44
+2670,292.78,-63.63,10,90.08,Paid Search,West,0,False,292.78
+2705,646.06,66.74,48,97.13,Referral,North,1,True,9.68
+2724,544.69,-89.79,39,76.8,Paid Search,South,1,False,544.69
+2735,1009.61,-407.67,45,88.59,Organic,South,1,False,1009.61
+2737,301.71,-21.31,10,122.1,Organic,West,0,False,301.71
+2740,255.86,24.25,11,93.07,Referral,West,0,True,10.55
+2757,370.01,133.23,35,77.09,Referral,South,1,True,2.78
+2758,234.24,-32.39,14,89.94,Social,East,0,False,234.24
+2769,751.96,-226.54,46,86.33,Organic,West,1,False,751.96
+2778,643.22,-77.35,40,81.59,Paid Search,West,1,False,643.22
+2780,633.93,231.46,55,84.59,Organic,North,1,True,2.74
+2785,536.44,-202.2,38,77.62,Paid Search,South,1,False,536.44
+2799,262.62,-279.45,13,90.36,Referral,South,0,False,262.62
+2835,528.9,133.36,43,85.68,Paid Search,South,1,True,3.97
+2843,369.92,-163.45,12,92.35,Organic,South,0,False,369.92
+2848,237.5,-606.59,12,108.48,Paid Search,North,0,False,237.5
+2852,243.72,-67.93,13,73.29,Paid Search,East,0,False,243.72
+2854,280.39,-129.68,16,71.94,Organic,East,0,False,280.39
+2855,361.31,68.0,19,83.52,Paid Search,East,0,True,5.31
+2922,237.61,-106.97,7,109.42,Referral,East,0,False,237.61
+2935,534.77,93.68,41,81.38,Organic,North,1,True,5.71
+2937,302.44,-25.01,14,100.51,Paid Search,West,0,False,302.44
+2938,302.07,-263.55,13,69.25,Referral,East,0,False,302.07
+2974,714.26,-56.7,57,80.29,Organic,East,1,False,714.26
+2990,1157.57,-789.09,50,77.37,Referral,South,1,False,1157.57
+2992,686.42,-225.81,48,74.87,Organic,South,1,False,686.42
+2994,267.9,-78.43,15,80.92,Paid Search,East,0,False,267.9
+3004,821.31,-125.75,53,91.4,Organic,East,1,False,821.31
+3006,664.59,-63.96,40,89.55,Paid Search,East,1,False,664.59
+3014,712.96,-238.96,49,72.57,Referral,West,1,False,712.96
+3019,249.12,15.47,11,71.05,Paid Search,South,0,True,16.1
+3023,259.5,-240.75,13,53.48,Paid Search,South,0,False,259.5
+3025,449.43,890.11,49,96.11,Paid Search,South,1,True,0.5
+3031,876.72,455.02,66,79.82,Paid Search,South,1,True,1.93
+3050,279.62,19.19,17,86.93,Social,North,0,True,14.57
+3055,886.54,188.4,62,84.18,Paid Search,West,1,True,4.71
+3060,751.83,-520.52,44,88.52,Paid Search,North,1,False,751.83
+3065,880.28,-43.62,62,94.79,Paid Search,South,1,False,880.28
+3073,332.09,-113.0,11,123.57,Paid Search,South,0,False,332.09
+3076,235.55,-71.75,10,91.91,Organic,West,0,False,235.55
+3087,253.18,12.92,11,89.68,Paid Search,South,0,True,19.6
+3088,444.21,247.72,37,79.32,Paid Search,East,1,True,1.79
+3091,575.16,-177.62,45,81.44,Organic,West,1,False,575.16
+3093,615.59,314.26,59,89.19,Organic,East,1,True,1.96
+3094,743.33,-299.35,58,74.45,Social,West,1,False,743.33
+3097,760.03,-272.18,53,87.57,Paid Search,South,1,False,760.03
+3109,407.88,115.55,39,87.61,Organic,South,1,True,3.53
+3117,299.58,-153.22,13,73.04,Organic,West,0,False,299.58
+3144,722.52,-414.03,53,77.09,Referral,North,1,False,722.52
+3164,544.78,378.51,46,86.88,Organic,South,1,True,1.44
+3189,243.42,-149.34,9,103.95,Paid Search,West,0,False,243.42
+3193,599.34,-376.69,32,92.38,Paid Search,North,1,False,599.34
+3196,686.72,-89.31,48,70.58,Paid Search,West,1,False,686.72
+3197,261.07,-167.14,11,91.04,Paid Search,South,0,False,261.07
+3199,279.94,-89.69,16,65.96,Organic,West,0,False,279.94
+3204,773.88,-555.58,45,80.47,Paid Search,North,1,False,773.88
+3214,256.49,-33.74,12,83.72,Paid Search,West,0,False,256.49
+3224,689.73,350.94,46,79.84,Paid Search,South,1,True,1.97
+3246,602.76,-90.49,41,81.37,Social,West,1,False,602.76
+3249,236.44,-85.07,11,81.09,Social,North,0,False,236.44
+3269,267.21,-101.28,11,84.24,Organic,East,0,False,267.21
+3277,279.68,-184.02,11,91.63,Paid Search,South,0,False,279.68
+3281,233.18,-84.82,13,72.0,Paid Search,West,0,False,233.18
+3288,533.11,-38.15,44,88.8,Organic,South,1,False,533.11
+3290,270.13,-42.32,14,77.14,Paid Search,East,0,False,270.13
+3316,239.56,-254.07,9,88.47,Social,North,0,False,239.56
+3322,585.28,-83.96,48,79.7,Paid Search,West,1,False,585.28
+3354,248.25,-172.63,8,71.3,Paid Search,West,0,False,248.25
+3363,477.82,327.72,44,82.76,Paid Search,North,1,True,1.46
+3371,552.97,25.24,43,82.79,Paid Search,West,1,True,21.91
+3378,233.47,-9.38,14,93.4,Referral,South,0,False,233.47
+3393,255.17,79.57,16,109.71,Organic,West,0,True,3.21
+3395,690.4,-107.76,55,103.52,Referral,West,1,False,690.4
+3396,242.15,-114.38,7,99.09,Paid Search,East,0,False,242.15
+3401,647.14,520.91,50,87.8,Organic,South,1,True,1.24
+3418,236.56,-67.33,14,106.59,Social,North,0,False,236.56
+3425,231.9,-284.23,10,76.55,Referral,West,0,False,231.9
+3436,576.66,-87.69,38,85.54,Organic,West,1,False,576.66
+3464,490.81,-5.59,47,79.48,Paid Search,North,1,False,490.81
+3471,551.33,354.02,41,72.73,Organic,East,1,True,1.56
+3513,258.75,-167.43,8,76.81,Organic,South,0,False,258.75
+3519,487.9,26.61,38,75.89,Organic,North,1,True,18.34
+3529,348.83,-170.33,10,85.8,Paid Search,West,0,False,348.83
+3554,283.54,-10.14,11,98.95,Paid Search,West,0,False,283.54
+3559,236.5,38.02,13,64.72,Paid Search,West,0,True,6.22
+3563,344.09,78.95,14,102.73,Paid Search,West,0,True,4.36
+3584,248.22,-204.42,8,82.07,Paid Search,East,0,False,248.22
+3618,507.13,123.91,48,91.26,Organic,North,1,True,4.09
+3624,302.59,-157.92,11,102.2,Paid Search,South,0,False,302.59
+3633,598.95,-72.42,47,71.95,Organic,North,1,False,598.95
+3648,383.07,-309.47,15,83.12,Paid Search,West,0,False,383.07
+3666,657.73,101.79,50,83.74,Referral,South,1,True,6.46
+3669,563.52,271.42,47,76.51,Paid Search,East,1,True,2.08
+3687,372.37,-201.35,12,94.64,Paid Search,South,0,False,372.37
+3697,320.58,-188.46,6,89.21,Referral,South,0,False,320.58
+3702,232.01,-76.49,11,82.95,Paid Search,East,0,False,232.01
+3726,299.18,-141.89,10,85.59,Organic,South,0,False,299.18
+3750,368.66,-253.0,10,85.43,Organic,South,0,False,368.66
+3754,418.84,-257.61,47,74.29,Organic,South,1,False,418.84
+3785,645.29,-250.01,56,80.2,Paid Search,West,1,False,645.29
+3791,277.59,-128.62,11,88.67,Paid Search,West,0,False,277.59
+3799,682.79,-197.68,48,81.23,Referral,North,1,False,682.79
+3802,276.77,-153.17,10,86.24,Paid Search,North,0,False,276.77
+3803,488.56,-210.87,41,91.86,Paid Search,North,1,False,488.56
+3814,275.75,-115.46,8,82.31,Referral,West,0,False,275.75
+3822,238.71,-102.18,11,81.54,Organic,East,0,False,238.71
+3828,274.46,-148.48,12,68.64,Organic,West,0,False,274.46
+3837,234.51,-44.5,15,75.01,Paid Search,South,0,False,234.51
+3861,858.72,-366.11,54,91.01,Paid Search,South,1,False,858.72
+3864,596.97,210.02,54,84.7,Paid Search,South,1,True,2.84
+3871,601.62,-9.66,53,91.94,Paid Search,South,1,False,601.62
+3872,526.69,110.43,44,82.42,Referral,West,1,True,4.77
+3882,243.07,-29.11,8,109.96,Organic,North,0,False,243.07
+3896,326.33,-392.79,9,75.46,Paid Search,East,0,False,326.33
+3908,263.79,-96.57,13,66.46,Organic,North,0,False,263.79
+3910,282.64,-63.71,12,80.69,Organic,North,0,False,282.64
+3919,246.48,-51.5,12,74.9,Paid Search,West,0,False,246.48
+3925,938.7,-303.41,49,96.74,Organic,West,1,False,938.7
+3929,722.31,-250.47,48,76.96,Paid Search,East,1,False,722.31
+3948,535.64,-427.17,46,81.62,Referral,South,1,False,535.64
+3953,654.78,51.02,39,91.43,Organic,North,1,True,12.83
+3956,717.95,88.06,49,95.57,Organic,West,1,True,8.15
+3957,554.96,-174.52,39,89.05,Organic,North,1,False,554.96
+3962,247.75,-28.97,14,81.05,Paid Search,East,0,False,247.75
+3978,511.25,-6.45,45,78.94,Social,North,1,False,511.25
+3980,767.09,-409.73,53,83.75,Referral,North,1,False,767.09
+3994,232.73,153.62,12,90.98,Social,East,0,True,1.51
+3999,240.45,-161.88,7,60.47,Paid Search,North,0,False,240.45
+4014,523.94,155.95,42,79.68,Organic,South,1,True,3.36
+4026,299.51,-28.0,13,110.39,Organic,West,0,False,299.51
+4035,264.2,43.84,14,83.29,Paid Search,West,0,True,6.03
+4037,249.39,45.29,11,96.57,Paid Search,East,0,True,5.51
+4044,591.82,-251.71,55,80.76,Organic,North,1,False,591.82
+4055,315.7,-45.6,12,99.54,Paid Search,North,0,False,315.7
+4057,615.1,-127.59,39,100.7,Organic,West,1,False,615.1
+4083,277.11,-136.03,16,89.26,Paid Search,South,0,False,277.11
+4085,275.68,-78.51,10,84.39,Social,East,0,False,275.68
+4089,243.56,-227.03,9,88.33,Paid Search,East,0,False,243.56
+4099,474.34,262.28,41,84.56,Paid Search,West,1,True,1.81
+4107,257.17,-108.6,13,106.79,Referral,South,0,False,257.17
+4109,646.61,-481.34,46,94.16,Paid Search,East,1,False,646.61
+4110,1053.9,-285.77,48,80.66,Organic,South,1,False,1053.9
+4119,763.17,-94.24,55,76.99,Social,South,1,False,763.17
+4140,261.63,-133.88,10,74.38,Organic,South,0,False,261.63
+4145,263.35,-170.05,6,93.74,Paid Search,East,0,False,263.35
+4158,234.17,-60.86,14,82.06,Paid Search,West,0,False,234.17
+4183,244.24,-56.53,12,93.66,Paid Search,East,0,False,244.24
+4197,639.56,562.01,47,84.06,Organic,East,1,True,1.14
+4202,511.43,647.37,55,85.57,Paid Search,East,1,True,0.79
+4211,253.75,-97.04,11,93.71,Organic,North,0,False,253.75
+4218,336.87,-287.27,18,78.28,Paid Search,South,0,False,336.87
+4219,315.93,-201.98,11,78.98,Referral,North,0,False,315.93
+4223,368.85,-259.92,9,92.01,Paid Search,West,0,False,368.85
+4224,950.82,-325.75,59,88.58,Referral,West,1,False,950.82
+4228,606.67,-36.19,46,79.76,Organic,South,1,False,606.67
+4230,715.73,25.66,50,80.61,Paid Search,South,1,True,27.89
+4237,736.65,-139.61,56,80.86,Referral,South,1,False,736.65
+4257,269.03,-145.44,11,124.96,Organic,North,0,False,269.03
+4305,692.34,-215.54,42,94.44,Organic,North,1,False,692.34
+4314,520.3,112.43,46,89.78,Paid Search,East,1,True,4.63
+4336,875.24,213.2,52,75.62,Organic,East,1,True,4.11
+4345,837.34,-310.9,57,87.8,Organic,North,1,False,837.34
+4347,840.45,-188.5,55,88.09,Social,North,1,False,840.45
+4349,962.4,-863.83,63,81.06,Organic,West,1,False,962.4
+4350,496.54,-71.35,44,84.59,Organic,East,1,False,496.54
+4351,481.75,-60.34,42,73.35,Paid Search,South,1,False,481.75
+4352,266.09,-166.82,9,64.72,Paid Search,East,0,False,266.09
+4360,533.44,230.02,45,79.09,Organic,West,1,True,2.32
+4365,665.19,462.38,47,92.04,Organic,South,1,True,1.44
+4375,644.48,-134.47,42,77.77,Social,North,1,False,644.48
+4420,261.03,-156.14,7,77.69,Paid Search,West,0,False,261.03
+4437,445.56,174.94,42,92.53,Organic,East,1,True,2.55
+4446,291.13,-186.17,11,99.88,Referral,East,0,False,291.13
+4447,717.56,-126.61,45,81.62,Paid Search,East,1,False,717.56
+4451,233.48,-50.43,12,76.23,Referral,West,0,False,233.48
+4454,317.44,-549.66,14,66.4,Paid Search,North,0,False,317.44
+4499,676.12,-119.65,47,80.65,Organic,West,1,False,676.12
+4500,322.19,-191.8,13,70.6,Organic,North,0,False,322.19
+4504,347.16,395.57,40,84.54,Referral,West,1,True,0.88
+4532,816.54,67.95,58,87.04,Referral,East,1,True,12.02
+4544,264.1,-147.78,8,65.84,Organic,North,0,False,264.1
+4550,235.93,-189.7,11,66.67,Paid Search,East,0,False,235.93
+4566,726.18,-518.42,45,85.68,Paid Search,North,1,False,726.18
+4569,431.39,344.6,43,86.05,Social,West,1,True,1.25
+4606,617.67,-84.37,51,99.02,Organic,North,1,False,617.67
+4612,425.71,316.24,42,81.56,Paid Search,North,1,True,1.35
+4613,249.95,-279.17,18,64.48,Organic,East,0,False,249.95
+4615,306.11,-183.97,12,80.48,Organic,West,0,False,306.11
+4616,715.52,254.09,55,85.34,Organic,East,1,True,2.82
+4619,632.61,220.09,49,87.82,Paid Search,West,1,True,2.87
+4627,316.34,225.72,32,84.03,Organic,South,1,True,1.4
+4636,275.16,-300.11,11,84.61,Organic,East,0,False,275.16
+4639,558.28,-355.2,38,100.93,Referral,East,1,False,558.28
+4642,260.19,-55.17,8,82.49,Paid Search,West,0,False,260.19
+4645,619.56,125.86,58,83.61,Paid Search,West,1,True,4.92
+4648,238.37,153.93,11,109.02,Paid Search,South,0,True,1.55
+4665,339.61,-130.38,13,83.97,Paid Search,East,0,False,339.61
+4668,899.56,-103.89,56,102.99,Organic,South,1,False,899.56
+4671,276.13,-87.23,9,87.28,Paid Search,South,0,False,276.13
+4672,238.8,-305.9,10,95.38,Paid Search,North,0,False,238.8
+4691,702.37,277.88,50,92.66,Paid Search,South,1,True,2.53
+4701,267.65,-144.87,7,76.13,Referral,West,0,False,267.65
+4705,783.4,-364.67,52,76.78,Organic,East,1,False,783.4
+4719,242.44,-132.83,6,98.67,Organic,North,0,False,242.44
+4728,299.28,-228.66,11,86.06,Referral,East,0,False,299.28
+4735,515.06,-45.29,42,89.65,Referral,North,1,False,515.06
+4747,566.95,85.16,48,77.35,Paid Search,East,1,True,6.66
+4757,590.99,310.59,59,76.59,Paid Search,North,1,True,1.9
+4770,393.9,-251.61,11,69.93,Social,East,0,False,393.9
+4786,278.91,-114.2,9,73.15,Paid Search,North,0,False,278.91
+4796,671.09,103.04,47,90.05,Paid Search,South,1,True,6.51
+4808,250.61,62.36,15,93.14,Paid Search,East,0,True,4.02
+4815,1008.96,-418.35,63,79.57,Referral,South,1,False,1008.96
+4823,761.41,265.14,55,91.04,Organic,North,1,True,2.87
+4830,357.74,-245.65,14,76.23,Organic,West,0,False,357.74
+4834,244.91,-29.6,8,75.43,Referral,West,0,False,244.91
+4836,411.68,506.75,44,81.45,Paid Search,South,1,True,0.81
+4847,264.72,-276.5,12,96.7,Referral,East,0,False,264.72
+4856,251.05,87.95,10,123.35,Paid Search,East,0,True,2.85
+4860,620.06,-541.02,34,82.85,Organic,South,1,False,620.06
+4861,241.13,-131.34,7,90.24,Paid Search,East,0,False,241.13
+4874,309.3,-134.28,11,68.57,Paid Search,South,0,False,309.3
+4895,631.17,167.76,53,83.21,Paid Search,West,1,True,3.76
+4896,531.66,8.13,40,83.53,Paid Search,South,1,True,65.39
+4904,443.75,-65.94,41,80.49,Paid Search,East,1,False,443.75
+4920,752.32,154.3,52,83.21,Organic,South,1,True,4.88
+4926,298.33,71.96,16,99.03,Organic,East,0,True,4.15
+4928,234.67,39.59,10,87.24,Organic,West,0,True,5.93
+4939,245.42,-58.94,13,100.3,Paid Search,West,0,False,245.42
+4953,957.94,-419.9,52,81.16,Paid Search,East,1,False,957.94
+4961,866.1,-93.23,56,82.71,Paid Search,South,1,False,866.1
+4976,726.04,-567.76,43,73.91,Paid Search,South,1,False,726.04
+4978,598.18,189.43,52,79.38,Organic,West,1,True,3.16
+4986,419.42,-76.68,40,80.15,Referral,North,1,False,419.42
+4988,654.92,-167.0,40,87.85,Paid Search,West,1,False,654.92
+4995,704.47,84.13,43,73.26,Paid Search,East,1,True,8.37
+5027,342.94,-241.09,15,71.77,Paid Search,West,0,False,342.94
+5029,282.65,-245.06,11,88.79,Paid Search,South,0,False,282.65
+5046,572.93,267.86,44,91.34,Paid Search,West,1,True,2.14
+5049,579.65,399.92,50,89.99,Paid Search,East,1,True,1.45
+5052,691.79,-166.28,44,94.14,Organic,North,1,False,691.79
+5103,636.18,21.57,45,77.25,Organic,South,1,True,29.49
+5108,387.2,-250.92,9,65.62,Organic,West,0,False,387.2
+5129,673.51,557.45,49,97.98,Paid Search,North,1,True,1.21
+5139,631.59,172.81,51,87.1,Paid Search,West,1,True,3.65
+5165,250.28,57.37,14,79.95,Organic,West,0,True,4.36
+5169,274.02,25.39,11,90.65,Social,South,0,True,10.79
+5180,572.32,-268.17,41,99.81,Organic,West,1,False,572.32
+5217,481.53,147.35,41,79.78,Organic,South,1,True,3.27
+5222,320.97,-82.9,11,78.18,Social,East,0,False,320.97
+5225,445.1,420.26,44,88.85,Organic,North,1,True,1.06
+5253,267.31,-219.82,9,77.38,Paid Search,North,0,False,267.31
+5264,742.76,257.4,51,73.46,Organic,West,1,True,2.89
+5296,564.74,228.49,47,80.79,Paid Search,South,1,True,2.47
+5305,293.8,6.63,19,72.12,Organic,East,0,True,44.31
+5312,376.4,-416.58,34,85.72,Paid Search,East,1,False,376.4
+5321,591.22,95.88,43,81.32,Paid Search,South,1,True,6.17
+5357,268.86,-132.71,14,70.77,Paid Search,South,0,False,268.86
+5359,244.66,26.3,13,97.06,Paid Search,East,0,True,9.3
+5362,875.83,-313.0,59,84.74,Organic,South,1,False,875.83
+5373,756.8,150.52,55,81.11,Paid Search,North,1,True,5.03
+5377,695.79,296.99,60,89.33,Referral,West,1,True,2.34
+5382,657.64,112.17,43,93.55,Referral,North,1,True,5.86
+5441,619.48,-434.79,52,75.99,Organic,West,1,False,619.48
+5450,746.16,592.41,56,84.27,Social,South,1,True,1.26
+5451,663.08,120.85,49,90.62,Referral,North,1,True,5.49
+5469,1116.82,-597.41,55,86.55,Referral,East,1,False,1116.82
+5475,240.08,13.53,10,99.26,Paid Search,South,0,True,17.74
+5486,272.12,-117.44,11,81.66,Social,West,0,False,272.12
+5495,270.45,-302.86,9,74.56,Paid Search,East,0,False,270.45
+5520,473.49,270.23,40,106.62,Referral,North,1,True,1.75
+5521,725.32,-430.3,49,87.68,Organic,South,1,False,725.32
+5539,290.63,-55.26,15,90.09,Organic,South,0,False,290.63
+5550,469.89,132.09,45,83.08,Organic,East,1,True,3.56
+5580,648.03,120.42,47,82.91,Social,East,1,True,5.38
+5589,338.16,-267.23,12,115.13,Paid Search,East,0,False,338.16
+5602,423.63,211.35,37,80.33,Organic,South,1,True,2.0
+5633,286.26,33.38,12,83.83,Paid Search,West,0,True,8.58
+5640,244.68,-65.98,8,66.04,Paid Search,West,0,False,244.68
+5664,274.62,-152.43,12,69.39,Paid Search,North,0,False,274.62
+5667,617.98,94.81,48,87.99,Paid Search,North,1,True,6.52
+5686,657.45,-436.19,51,82.54,Paid Search,South,1,False,657.45
+5690,279.25,-206.74,11,108.85,Paid Search,South,0,False,279.25
+5698,429.41,607.27,46,92.55,Organic,West,1,True,0.71
+5699,299.5,-49.18,11,119.42,Organic,North,0,False,299.5
+5700,244.59,-75.52,6,104.33,Referral,South,0,False,244.59
+5704,548.14,-80.1,47,84.66,Organic,East,1,False,548.14
+5705,637.39,-129.7,44,88.7,Paid Search,South,1,False,637.39
+5718,409.56,-87.6,15,86.93,Paid Search,East,0,False,409.56
+5733,878.86,-567.82,59,83.72,Paid Search,West,1,False,878.86
+5737,449.38,270.43,41,84.27,Organic,West,1,True,1.66
+5748,321.63,-284.75,12,92.61,Referral,South,0,False,321.63
+5752,604.21,-178.63,35,83.13,Organic,North,1,False,604.21
+5773,304.13,-103.55,15,63.99,Paid Search,South,0,False,304.13
+5815,498.53,363.44,46,79.95,Referral,East,1,True,1.37
+5819,292.97,-87.88,13,98.86,Referral,West,0,False,292.97
+5853,265.56,-292.76,12,84.47,Organic,West,0,False,265.56
+5873,234.57,-82.67,14,70.29,Social,North,0,False,234.57
+5879,262.51,-53.21,17,100.11,Organic,East,0,False,262.51
+5882,708.15,67.83,67,78.43,Organic,West,1,True,10.44
+5887,231.43,-204.39,8,64.47,Paid Search,South,0,False,231.43
+5888,351.29,-91.56,14,97.86,Paid Search,South,0,False,351.29
+5904,236.14,-220.89,17,75.55,Paid Search,South,0,False,236.14
+5912,1076.58,-472.83,55,87.06,Paid Search,East,1,False,1076.58
+5945,830.21,-61.51,39,104.12,Organic,East,1,False,830.21
+5959,817.63,-63.2,58,79.9,Referral,West,1,False,817.63
+5988,998.26,-640.03,43,84.19,Paid Search,South,1,False,998.26
+5996,248.12,-259.37,15,62.61,Paid Search,East,0,False,248.12
+6012,740.99,-458.52,48,83.93,Referral,South,1,False,740.99
+6016,651.66,-147.45,44,82.56,Paid Search,North,1,False,651.66
+6023,232.46,6.89,10,96.08,Paid Search,East,0,True,33.74
+6036,297.95,58.48,14,80.88,Referral,North,0,True,5.09
+6039,793.07,326.79,52,86.33,Paid Search,North,1,True,2.43
+6043,580.23,94.73,43,79.15,Paid Search,East,1,True,6.13
+6063,449.89,-51.75,39,72.56,Organic,South,1,False,449.89
+6067,690.42,235.44,58,80.84,Social,South,1,True,2.93
+6072,564.84,329.89,41,93.02,Social,South,1,True,1.71
+6077,318.22,-101.89,15,74.02,Organic,East,0,False,318.22
+6103,316.39,-121.56,11,80.35,Organic,West,0,False,316.39
+6107,265.98,-94.92,12,80.49,Paid Search,North,0,False,265.98
+6109,655.98,292.55,40,90.32,Organic,North,1,True,2.24
+6120,308.06,-184.88,8,73.86,Paid Search,North,0,False,308.06
+6125,235.71,-196.09,7,95.5,Paid Search,West,0,False,235.71
+6168,805.89,-442.08,43,93.91,Paid Search,West,1,False,805.89
+6173,270.93,-123.85,9,117.06,Paid Search,West,0,False,270.93
+6186,550.85,-57.17,40,79.68,Paid Search,North,1,False,550.85
+6188,343.45,-327.72,11,81.65,Paid Search,North,0,False,343.45
+6228,248.23,-161.62,13,92.09,Organic,North,0,False,248.23
+6233,818.62,-483.84,57,79.4,Referral,East,1,False,818.62
+6234,252.86,-144.67,5,84.5,Social,East,0,False,252.86
+6236,392.62,102.13,39,88.33,Referral,West,1,True,3.84
+6247,790.43,-80.66,43,77.09,Referral,West,1,False,790.43
+6249,301.85,-283.51,9,59.75,Paid Search,South,0,False,301.85
+6262,231.62,-202.61,8,90.68,Referral,West,0,False,231.62
+6265,238.41,-4.3,14,99.8,Organic,West,0,False,238.41
+6271,236.18,-294.19,11,73.33,Paid Search,West,0,False,236.18
+6293,302.31,-299.83,8,96.25,Organic,South,0,False,302.31
+6300,353.71,-277.92,9,91.53,Organic,South,0,False,353.71
+6341,530.63,-241.28,39,79.25,Paid Search,East,1,False,530.63
+6352,589.56,463.55,48,87.27,Organic,West,1,True,1.27
+6360,337.7,-205.84,12,69.14,Paid Search,East,0,False,337.7
+6370,295.54,-101.71,12,83.59,Referral,North,0,False,295.54
+6377,281.92,-143.08,13,66.57,Referral,North,0,False,281.92
+6385,757.77,22.58,43,81.87,Paid Search,West,1,True,33.56
+6388,332.19,-159.44,10,97.65,Paid Search,North,0,False,332.19
+6397,596.53,-228.05,52,82.63,Paid Search,South,1,False,596.53
+6403,712.59,800.27,72,91.27,Organic,South,1,True,0.89
+6406,305.2,-203.32,14,89.67,Referral,South,0,False,305.2
+6409,591.31,143.26,50,76.13,Organic,East,1,True,4.13
+6414,290.2,-184.02,10,100.94,Paid Search,South,0,False,290.2
+6434,662.24,-28.72,48,70.41,Paid Search,West,1,False,662.24
+6437,866.17,-472.29,57,81.43,Referral,West,1,False,866.17
+6465,318.03,-322.07,15,73.82,Paid Search,North,0,False,318.03
+6471,570.53,-227.31,38,80.24,Referral,East,1,False,570.53
+6474,966.07,-655.92,49,84.86,Referral,North,1,False,966.07
+6483,791.73,-417.68,46,88.61,Paid Search,North,1,False,791.73
+6484,259.8,-86.72,13,73.68,Paid Search,North,0,False,259.8
+6495,433.5,-196.76,15,91.44,Referral,North,0,False,433.5
+6505,237.3,-83.8,9,75.47,Referral,North,0,False,237.3
+6512,231.7,-8.18,10,105.31,Organic,East,0,False,231.7
+6521,246.71,-166.12,9,66.89,Paid Search,West,0,False,246.71
+6534,878.08,-138.6,47,93.3,Referral,North,1,False,878.08
+6541,250.8,-111.97,10,81.12,Organic,North,0,False,250.8
+6562,324.98,-262.3,7,87.22,Paid Search,East,0,False,324.98
+6575,540.08,230.95,44,73.59,Social,West,1,True,2.34
+6599,279.45,-29.76,12,84.61,Social,South,0,False,279.45
+6613,246.05,-75.12,9,72.65,Organic,West,0,False,246.05
+6615,240.85,51.65,11,83.33,Paid Search,South,0,True,4.66
+6637,348.18,-249.39,10,67.02,Organic,South,0,False,348.18
+6651,624.58,429.18,53,82.04,Organic,North,1,True,1.46
+6662,287.4,-182.17,9,90.44,Paid Search,North,0,False,287.4
+6672,786.81,-133.95,55,87.85,Paid Search,North,1,False,786.81
+6685,273.6,-181.32,7,70.42,Organic,West,0,False,273.6
+6694,676.52,-196.92,46,82.77,Paid Search,South,1,False,676.52
+6701,254.19,67.18,17,84.99,Paid Search,South,0,True,3.78
+6733,277.52,-105.33,12,93.35,Organic,South,0,False,277.52
+6740,295.57,-35.65,15,100.42,Organic,West,0,False,295.57
+6743,619.63,136.67,39,89.36,Organic,East,1,True,4.53
+6785,421.8,313.03,44,99.09,Organic,South,1,True,1.35
+6796,247.23,70.56,9,111.62,Paid Search,East,0,True,3.5
+6805,600.91,100.01,48,83.67,Referral,North,1,True,6.01
+6811,547.81,-204.2,36,73.97,Organic,North,1,False,547.81
+6815,263.23,-126.68,12,67.01,Referral,North,0,False,263.23
+6817,944.68,191.54,58,81.94,Organic,West,1,True,4.93
+6827,541.46,28.39,41,75.6,Paid Search,South,1,True,19.07
+6829,245.05,-39.7,12,87.18,Social,West,0,False,245.05
+6835,264.67,-99.75,9,92.05,Referral,East,0,False,264.67
+6840,812.71,-535.07,42,80.22,Referral,East,1,False,812.71
+6853,949.1,-652.31,50,95.84,Paid Search,East,1,False,949.1
+6865,446.73,139.84,45,82.21,Referral,East,1,True,3.19
+6867,246.17,-45.0,15,88.52,Organic,East,0,False,246.17
+6876,562.59,251.38,52,87.71,Organic,West,1,True,2.24
+6883,278.99,-217.03,13,86.18,Organic,South,0,False,278.99
+6897,599.07,-83.64,55,80.6,Paid Search,South,1,False,599.07
+6908,232.76,-45.66,15,76.91,Paid Search,West,0,False,232.76
+6918,262.87,-247.38,10,108.46,Paid Search,West,0,False,262.87
+6921,620.73,-85.48,37,98.59,Referral,East,1,False,620.73
+6952,329.81,-339.3,8,99.09,Organic,East,0,False,329.81
+6955,540.32,-334.27,40,88.94,Paid Search,West,1,False,540.32
+6977,748.41,-166.97,41,81.62,Organic,East,1,False,748.41
+6981,867.92,-147.21,41,89.9,Paid Search,South,1,False,867.92
+6992,631.56,323.49,59,82.55,Paid Search,East,1,True,1.95
+6998,353.62,-126.86,10,113.02,Referral,South,0,False,353.62
+7001,833.79,268.27,51,87.61,Referral,West,1,True,3.11
+7032,553.9,300.68,44,89.81,Paid Search,East,1,True,1.84
+7039,250.57,-175.56,12,75.86,Paid Search,South,0,False,250.57
+7052,246.15,-240.32,8,74.16,Paid Search,North,0,False,246.15
+7055,389.6,-223.3,10,92.24,Organic,West,0,False,389.6
+7066,526.45,202.91,59,85.98,Paid Search,North,1,True,2.59
+7067,242.64,-168.54,16,76.79,Organic,East,0,False,242.64
+7080,279.64,-185.3,15,62.92,Organic,East,0,False,279.64
+7097,1060.52,-1187.14,61,85.07,Paid Search,East,1,False,1060.52
+7100,235.14,-118.26,7,84.23,Organic,East,0,False,235.14
+7133,560.2,-4.24,43,85.77,Referral,North,1,False,560.2
+7138,696.94,268.94,56,85.47,Organic,North,1,True,2.59
+7153,272.73,-149.87,14,81.23,Paid Search,North,0,False,272.73
+7168,684.75,-492.54,46,68.7,Organic,East,1,False,684.75
+7173,255.8,-136.47,8,74.64,Paid Search,West,0,False,255.8
+7177,707.42,-168.44,46,100.73,Social,South,1,False,707.42
+7196,258.75,-4.05,10,96.53,Paid Search,North,0,False,258.75
+7199,296.35,-169.99,12,68.49,Paid Search,North,0,False,296.35
+7200,297.28,-81.52,10,94.76,Organic,East,0,False,297.28
+7224,236.31,-60.7,9,86.38,Paid Search,West,0,False,236.31
+7238,543.58,17.49,49,103.52,Paid Search,East,1,True,31.08
+7289,330.57,-314.24,14,94.21,Referral,West,0,False,330.57
+7290,546.55,123.63,51,91.17,Paid Search,North,1,True,4.42
+7323,240.51,-34.74,11,76.5,Referral,North,0,False,240.51
+7328,268.38,-180.42,12,100.65,Referral,South,0,False,268.38
+7333,835.23,-234.14,47,84.27,Social,South,1,False,835.23
+7337,309.94,-4.57,13,84.18,Organic,West,0,False,309.94
+7339,509.86,484.59,54,93.94,Organic,West,1,True,1.05
+7341,231.29,69.24,11,104.81,Organic,West,0,True,3.34
+7349,288.68,45.14,15,88.64,Paid Search,East,0,True,6.4
+7351,601.59,-218.65,49,74.81,Paid Search,East,1,False,601.59
+7366,285.19,122.41,29,84.1,Organic,South,1,True,2.33
+7370,286.54,-461.25,12,67.42,Organic,South,0,False,286.54
+7376,237.41,100.02,12,98.82,Paid Search,West,0,True,2.37
+7391,715.69,-246.88,52,74.31,Paid Search,West,1,False,715.69
+7393,244.68,-124.92,16,68.1,Referral,West,0,False,244.68
+7409,672.24,103.14,44,89.82,Paid Search,North,1,True,6.52
+7410,259.92,-158.58,10,78.07,Paid Search,West,0,False,259.92
+7411,251.4,-31.95,12,85.28,Organic,East,0,False,251.4
+7416,431.99,160.2,39,86.68,Paid Search,East,1,True,2.7
+7453,252.07,-178.34,12,77.6,Referral,East,0,False,252.07
+7463,235.56,-94.94,14,78.42,Paid Search,East,0,False,235.56
+7474,304.89,1.64,19,71.9,Organic,East,0,True,185.91
+7489,256.13,-144.56,12,73.5,Organic,South,0,False,256.13
+7490,592.48,-162.5,60,79.29,Organic,South,1,False,592.48
+7495,376.52,-398.57,11,65.31,Paid Search,South,0,False,376.52
+7512,1023.46,-870.95,41,101.82,Paid Search,North,1,False,1023.46
+7520,926.81,-89.45,50,85.04,Paid Search,East,1,False,926.81
+7521,567.83,331.8,40,96.47,Paid Search,South,1,True,1.71
+7536,562.33,-89.35,44,77.1,Paid Search,West,1,False,562.33
+7559,240.86,-497.93,17,87.21,Paid Search,East,0,False,240.86
+7568,457.34,428.31,38,85.59,Organic,North,1,True,1.07
+7589,287.79,-131.27,9,79.87,Social,West,0,False,287.79
+7600,647.54,-316.48,42,79.08,Paid Search,West,1,False,647.54
+7618,265.93,-140.19,10,66.16,Paid Search,East,0,False,265.93
+7621,553.5,-52.56,46,84.6,Organic,South,1,False,553.5
+7624,550.72,98.86,37,87.28,Paid Search,South,1,True,5.57
+7626,270.13,-135.49,14,75.04,Paid Search,West,0,False,270.13
+7662,338.27,-202.41,15,97.39,Organic,West,0,False,338.27
+7672,249.75,-120.1,8,85.87,Referral,South,0,False,249.75
+7678,660.89,-461.32,58,79.02,Paid Search,North,1,False,660.89
+7685,441.55,-38.55,45,78.81,Paid Search,West,1,False,441.55
+7690,243.51,-106.02,12,85.1,Paid Search,South,0,False,243.51
+7717,670.72,-445.76,41,76.41,Referral,South,1,False,670.72
+7718,237.18,85.16,12,132.6,Paid Search,East,0,True,2.79
+7722,504.82,59.26,41,90.95,Organic,West,1,True,8.52
+7747,545.08,375.28,45,75.06,Paid Search,South,1,True,1.45
+7777,1095.16,-71.28,56,93.56,Paid Search,West,1,False,1095.16
+7779,256.42,-177.62,10,110.67,Organic,West,0,False,256.42
+7780,288.58,-265.11,15,68.35,Paid Search,East,0,False,288.58
+7785,282.31,-106.43,9,102.61,Organic,North,0,False,282.31
+7787,928.15,40.71,57,92.53,Paid Search,South,1,True,22.8
+7802,247.54,-30.16,15,71.28,Referral,West,0,False,247.54
+7815,976.11,178.86,65,84.01,Paid Search,North,1,True,5.46
+7827,285.77,-173.18,9,80.51,Referral,North,0,False,285.77
+7834,584.58,286.66,49,96.12,Social,North,1,True,2.04
+7853,387.11,-245.8,13,78.29,Organic,South,0,False,387.11
+7868,788.16,169.32,44,95.55,Paid Search,South,1,True,4.65
+7895,431.37,-15.73,41,80.05,Paid Search,North,1,False,431.37
+7905,717.32,202.47,52,82.56,Paid Search,West,1,True,3.54
+7925,333.9,-135.71,14,82.75,Social,West,0,False,333.9
+7927,263.46,-155.72,9,78.66,Paid Search,South,0,False,263.46
+7939,298.15,-186.5,9,94.87,Referral,West,0,False,298.15
+7944,474.84,76.32,46,85.04,Paid Search,West,1,True,6.22
+7964,493.49,-250.19,54,75.0,Paid Search,West,1,False,493.49
+7965,624.85,-129.91,45,87.85,Organic,South,1,False,624.85
+7978,231.39,-81.19,14,91.25,Paid Search,West,0,False,231.39
+7980,263.75,-111.08,15,77.54,Social,South,0,False,263.75
+7982,271.14,-184.3,5,70.01,Paid Search,North,0,False,271.14
+7985,571.41,159.53,41,89.29,Paid Search,South,1,True,3.58
+7987,1020.59,-316.48,55,88.21,Organic,South,1,False,1020.59
+7988,602.88,2.8,49,76.59,Referral,North,1,True,215.31
+7995,659.59,29.1,53,75.74,Referral,West,1,True,22.67
+8027,355.01,-462.51,15,95.06,Paid Search,North,0,False,355.01
+8028,249.42,-61.87,12,70.08,Paid Search,North,0,False,249.42
+8053,245.33,-107.28,12,99.41,Paid Search,East,0,False,245.33
+8060,234.63,-160.12,8,82.93,Organic,South,0,False,234.63
+8065,1067.96,-553.18,55,90.62,Referral,North,1,False,1067.96
+8066,657.84,407.19,64,85.74,Paid Search,West,1,True,1.62
+8068,263.91,173.97,14,118.7,Organic,North,0,True,1.52
+8078,710.82,-418.64,58,74.92,Paid Search,North,1,False,710.82
+8089,583.98,333.94,43,86.61,Referral,North,1,True,1.75
+8111,566.41,-80.61,43,81.47,Referral,East,1,False,566.41
+8143,473.85,-47.05,37,85.52,Paid Search,West,1,False,473.85
+8144,710.12,25.62,52,83.67,Paid Search,South,1,True,27.72
+8153,708.42,355.1,53,81.85,Paid Search,North,1,True,1.99
+8155,898.68,-233.71,51,81.36,Organic,West,1,False,898.68
+8159,402.37,160.01,39,85.86,Paid Search,South,1,True,2.51
+8161,256.88,-119.15,11,77.2,Organic,West,0,False,256.88
+8171,1084.52,-516.23,57,85.52,Paid Search,East,1,False,1084.52
+8191,234.44,-53.33,15,86.23,Paid Search,North,0,False,234.44
+8196,254.71,-143.89,10,72.49,Paid Search,East,0,False,254.71
+8203,832.78,-178.05,41,94.98,Paid Search,West,1,False,832.78
+8211,261.72,-138.64,12,61.54,Paid Search,South,0,False,261.72
+8214,677.89,-323.53,57,73.15,Paid Search,North,1,False,677.89
+8221,266.94,-116.54,11,91.68,Organic,East,0,False,266.94
+8223,905.72,-186.96,49,65.05,Paid Search,West,1,False,905.72
+8228,708.95,138.22,51,96.49,Organic,West,1,True,5.13
+8240,240.94,-9.66,16,81.13,Paid Search,South,0,False,240.94
+8248,241.46,-165.74,6,70.83,Organic,West,0,False,241.46
+8251,263.8,-237.62,12,102.11,Paid Search,East,0,False,263.8
+8260,242.5,-14.61,8,126.16,Paid Search,East,0,False,242.5
+8267,291.04,-124.94,11,77.5,Organic,East,0,False,291.04
+8274,619.13,144.66,49,85.61,Paid Search,North,1,True,4.28
+8288,332.38,-197.37,8,84.4,Paid Search,North,0,False,332.38
+8301,254.63,-45.41,8,123.76,Organic,South,0,False,254.63
+8308,255.85,-149.61,8,104.1,Paid Search,East,0,False,255.85
+8319,256.65,-161.94,14,96.22,Paid Search,North,0,False,256.65
+8323,233.14,-36.15,10,56.44,Paid Search,South,0,False,233.14
+8324,249.35,-93.72,7,85.54,Paid Search,West,0,False,249.35
+8335,258.38,-136.03,11,67.92,Paid Search,North,0,False,258.38
+8337,266.99,-35.91,13,111.42,Organic,West,0,False,266.99
+8350,709.36,-267.92,49,79.97,Paid Search,West,1,False,709.36
+8353,234.66,52.13,11,117.33,Organic,North,0,True,4.5
+8356,616.16,393.18,48,90.21,Paid Search,West,1,True,1.57
+8387,1010.66,-269.69,45,99.6,Organic,East,1,False,1010.66
+8390,308.61,-50.75,11,89.9,Paid Search,North,0,False,308.61
+8395,235.13,-344.01,11,73.48,Paid Search,South,0,False,235.13
+8401,261.33,-187.04,15,100.67,Paid Search,East,0,False,261.33
+8413,759.08,-177.98,45,85.13,Social,East,1,False,759.08
+8436,259.02,-192.35,6,61.6,Social,North,0,False,259.02
+8439,303.13,-291.83,13,72.76,Paid Search,East,0,False,303.13
+8450,599.95,-338.53,50,71.99,Organic,North,1,False,599.95
+8467,583.86,539.7,57,94.99,Paid Search,South,1,True,1.08
+8489,486.34,46.37,36,81.45,Organic,West,1,True,10.49
+8494,258.13,-163.22,10,89.04,Paid Search,South,0,False,258.13
+8496,1014.58,-448.04,56,94.68,Organic,East,1,False,1014.58
+8525,247.28,-159.55,9,61.99,Paid Search,West,0,False,247.28
+8535,644.12,-30.21,45,86.46,Paid Search,West,1,False,644.12
+8562,639.3,-110.52,37,96.09,Organic,West,1,False,639.3
+8566,459.23,-265.45,41,81.52,Social,South,1,False,459.23
+8568,268.21,-132.66,9,102.04,Paid Search,West,0,False,268.21
+8612,862.18,-602.33,55,92.14,Referral,South,1,False,862.18
+8615,521.7,386.51,40,94.16,Paid Search,South,1,True,1.35
+8616,277.89,-88.04,10,86.42,Paid Search,North,0,False,277.89
+8644,528.3,271.77,48,78.87,Paid Search,West,1,True,1.94
+8649,254.8,-135.72,9,69.08,Referral,North,0,False,254.8
+8655,791.95,-248.52,51,85.89,Social,South,1,False,791.95
+8656,612.02,-118.85,53,76.72,Referral,North,1,False,612.02
+8671,332.43,-238.2,11,91.35,Paid Search,North,0,False,332.43
+8684,681.07,-110.67,43,77.47,Organic,East,1,False,681.07
+8687,238.13,-109.71,8,58.15,Organic,North,0,False,238.13
+8694,831.57,468.45,61,85.55,Paid Search,East,1,True,1.78
+8698,679.97,-170.87,45,78.91,Social,South,1,False,679.97
+8702,286.06,-177.83,11,99.43,Paid Search,North,0,False,286.06
+8709,475.51,-224.35,49,75.14,Referral,North,1,False,475.51
+8718,645.39,-180.38,44,78.47,Social,East,1,False,645.39
+8733,243.38,88.24,17,68.96,Paid Search,South,0,True,2.76
+8737,236.9,-84.52,12,66.41,Organic,South,0,False,236.9
+8749,695.72,67.21,58,73.43,Paid Search,East,1,True,10.35
+8763,860.29,-405.22,54,87.16,Social,North,1,False,860.29
+8764,837.87,-798.2,48,84.01,Referral,North,1,False,837.87
+8767,272.36,-242.8,12,76.31,Paid Search,East,0,False,272.36
+8772,538.65,388.12,52,90.04,Paid Search,East,1,True,1.39
+8806,348.97,-206.23,13,99.95,Paid Search,East,0,False,348.97
+8817,692.85,-289.3,52,81.56,Paid Search,South,1,False,692.85
+8826,756.87,317.38,56,78.49,Organic,West,1,True,2.38
+8834,245.33,-132.62,6,75.96,Organic,West,0,False,245.33
+8835,890.87,-212.86,49,89.39,Organic,East,1,False,890.87
+8860,578.32,11.05,53,83.79,Paid Search,South,1,True,52.34
+8864,701.51,-113.12,57,68.33,Paid Search,North,1,False,701.51
+8875,1177.51,-487.1,58,87.21,Organic,North,1,False,1177.51
+8904,240.96,-229.33,17,68.4,Paid Search,East,0,False,240.96
+8911,323.54,-222.16,10,78.57,Paid Search,South,0,False,323.54
+8916,287.49,-28.43,16,79.98,Organic,West,0,False,287.49
+8922,731.5,345.01,46,77.4,Organic,West,1,True,2.12
+8927,501.76,423.68,52,85.81,Organic,South,1,True,1.18
+8941,261.22,2.6,14,81.34,Paid Search,East,0,True,100.47
+8944,243.63,-215.28,11,117.35,Organic,West,0,False,243.63
+8945,246.57,22.55,11,82.53,Organic,East,0,True,10.93
+8947,399.32,-330.4,13,66.86,Organic,West,0,False,399.32
+8949,740.69,-210.09,44,79.68,Paid Search,West,1,False,740.69
+8963,456.77,-121.97,47,80.41,Organic,South,1,False,456.77
+8964,254.98,27.95,10,88.6,Social,North,0,True,9.12
+8988,421.29,-391.88,14,80.65,Paid Search,West,0,False,421.29
+8991,288.3,-170.48,15,85.86,Organic,North,0,False,288.3
+9000,1391.03,-658.96,67,92.21,Social,South,1,False,1391.03
+9015,279.94,-219.64,8,88.03,Organic,North,0,False,279.94
+9035,444.39,40.6,44,71.61,Organic,West,1,True,10.95
+9049,523.23,167.94,41,92.01,Organic,North,1,True,3.12
+9051,609.14,280.46,48,90.43,Paid Search,West,1,True,2.17
+9059,267.42,-99.26,14,97.02,Paid Search,West,0,False,267.42
+9066,271.45,-167.9,8,75.93,Organic,North,0,False,271.45
+9081,302.4,-179.55,8,74.51,Paid Search,West,0,False,302.4
+9093,837.23,-327.19,43,85.48,Paid Search,South,1,False,837.23
+9095,255.76,-130.73,6,107.13,Paid Search,South,0,False,255.76
+9096,723.16,-255.07,40,92.82,Paid Search,West,1,False,723.16
+9110,285.53,-64.13,14,76.27,Paid Search,South,0,False,285.53
+9115,286.58,-249.26,7,47.31,Paid Search,West,0,False,286.58
+9118,863.31,-360.1,48,95.47,Paid Search,West,1,False,863.31
+9127,248.35,-20.57,10,84.06,Paid Search,North,0,False,248.35
+9130,235.78,-74.04,7,116.82,Paid Search,East,0,False,235.78
+9139,318.41,-140.92,13,62.06,Paid Search,West,0,False,318.41
+9151,657.85,-27.94,52,71.92,Referral,East,1,False,657.85
+9160,676.29,191.98,51,85.8,Organic,East,1,True,3.52
+9168,683.99,373.12,58,87.66,Referral,South,1,True,1.83
+9170,615.05,79.33,42,85.63,Organic,East,1,True,7.75
+9172,364.87,-143.59,10,125.95,Organic,West,0,False,364.87
+9175,461.31,207.9,44,93.01,Paid Search,East,1,True,2.22
+9181,302.87,-233.5,8,71.94,Paid Search,South,0,False,302.87
+9189,285.44,-164.6,9,100.74,Organic,West,0,False,285.44
+9218,608.04,205.78,49,95.72,Organic,North,1,True,2.95
+9228,453.03,-424.59,13,75.07,Organic,South,0,False,453.03
+9233,917.09,-222.31,45,96.05,Organic,North,1,False,917.09
+9235,602.95,170.62,47,83.48,Organic,East,1,True,3.53
+9257,551.04,43.43,32,95.7,Paid Search,West,1,True,12.69
+9260,544.46,563.29,49,89.7,Organic,East,1,True,0.97
+9295,263.1,-175.73,13,73.58,Paid Search,South,0,False,263.1
+9307,617.13,561.63,56,87.64,Paid Search,East,1,True,1.1
+9312,290.52,-195.19,12,73.84,Organic,South,0,False,290.52
+9315,802.93,166.09,52,91.71,Organic,North,1,True,4.83
+9323,505.13,-262.24,43,79.22,Paid Search,East,1,False,505.13
+9324,346.37,212.51,38,67.45,Social,West,1,True,1.63
+9328,610.39,217.59,56,74.67,Organic,North,1,True,2.81
+9343,283.97,-115.13,13,91.04,Paid Search,East,0,False,283.97
+9350,563.61,181.3,37,97.59,Organic,South,1,True,3.11
+9354,240.07,-12.75,11,74.9,Organic,East,0,False,240.07
+9358,645.14,117.83,47,76.78,Paid Search,North,1,True,5.48
+9364,596.49,530.94,52,90.45,Social,East,1,True,1.12
+9366,293.57,-367.62,11,79.7,Paid Search,North,0,False,293.57
+9396,591.9,-151.04,50,81.9,Organic,North,1,False,591.9
+9418,272.32,5.6,10,110.48,Referral,East,0,True,48.63
+9480,265.55,-178.6,10,75.08,Organic,West,0,False,265.55
+9482,233.57,-242.74,9,78.01,Paid Search,East,0,False,233.57
+9483,726.71,93.84,52,80.6,Organic,South,1,True,7.74
+9485,593.6,-401.85,50,91.96,Paid Search,North,1,False,593.6
+9534,256.26,-84.6,14,105.26,Organic,North,0,False,256.26
+9547,233.24,-38.88,9,87.59,Paid Search,North,0,False,233.24
+9548,475.5,413.73,45,74.92,Organic,North,1,True,1.15
+9563,360.46,-154.58,10,86.64,Referral,West,0,False,360.46
+9570,675.2,-144.02,40,89.47,Paid Search,East,1,False,675.2
+9572,747.14,578.64,50,95.19,Social,South,1,True,1.29
+9584,238.31,88.96,13,79.94,Paid Search,North,0,True,2.68
+9585,405.78,-433.07,13,100.24,Paid Search,West,0,False,405.78
+9586,255.59,-115.27,8,88.7,Referral,East,0,False,255.59
+9589,422.1,-218.33,13,83.94,Paid Search,East,0,False,422.1
+9604,695.45,325.33,44,73.9,Paid Search,North,1,True,2.14
+9615,261.05,-49.6,12,97.15,Paid Search,East,0,False,261.05
+9626,291.6,82.34,13,86.56,Paid Search,North,0,True,3.54
+9631,250.42,62.9,12,88.01,Referral,West,0,True,3.98
+9668,236.16,-48.83,16,106.51,Social,South,0,False,236.16
+9669,232.51,-11.25,10,100.51,Social,West,0,False,232.51
+9677,705.28,-82.46,33,99.14,Paid Search,North,1,False,705.28
+9680,974.07,-287.32,50,88.19,Organic,West,1,False,974.07
+9720,237.52,-169.79,12,65.3,Organic,South,0,False,237.52
+9730,634.38,74.67,40,80.52,Organic,East,1,True,8.5
+9736,505.16,136.06,45,83.87,Organic,East,1,True,3.71
+9744,738.0,94.41,61,80.74,Organic,North,1,True,7.82
+9750,238.67,-181.93,17,89.86,Paid Search,West,0,False,238.67
+9758,318.92,-171.95,14,107.51,Paid Search,South,0,False,318.92
+9799,459.73,260.44,39,85.6,Organic,North,1,True,1.77
+9830,507.85,-32.14,45,75.84,Paid Search,East,1,False,507.85
+9831,247.07,-104.41,15,65.97,Paid Search,East,0,False,247.07
+9843,238.93,-69.73,11,88.26,Organic,South,0,False,238.93
+9873,285.57,-92.67,11,79.18,Paid Search,South,0,False,285.57
+9878,607.79,-496.62,39,79.53,Referral,East,1,False,607.79
+9902,233.31,-179.27,10,70.8,Organic,South,0,False,233.31
+9905,766.89,-72.74,58,89.42,Referral,West,1,False,766.89
+9916,328.5,-49.22,13,101.65,Paid Search,East,0,False,328.5
+9926,457.82,202.16,46,71.7,Paid Search,West,1,True,2.26
+9932,614.23,285.82,51,90.9,Social,South,1,True,2.15
+9943,803.9,94.69,56,91.96,Referral,East,1,True,8.49
+9957,630.83,-314.05,43,80.54,Paid Search,East,1,False,630.83
+9959,261.73,-169.31,10,66.7,Paid Search,South,0,False,261.73
+9976,481.81,104.06,42,85.68,Paid Search,West,1,True,4.63
+9978,686.74,-325.97,48,79.24,Organic,East,1,False,686.74
+9980,267.71,-15.88,17,86.82,Organic,North,0,False,267.71
+9982,318.13,-192.72,11,81.45,Paid Search,South,0,False,318.13
+10004,665.79,5.85,56,82.58,Paid Search,West,1,True,113.81
+10017,299.64,445.26,33,84.94,Paid Search,North,1,True,0.67
+10054,266.96,154.34,13,111.25,Social,North,0,True,1.73
+10080,313.25,-270.85,8,92.74,Paid Search,South,0,False,313.25
+10086,904.42,-367.12,52,73.45,Paid Search,North,1,False,904.42
+10102,249.56,-318.76,16,88.62,Paid Search,East,0,False,249.56
+10119,549.8,-177.84,40,70.96,Paid Search,East,1,False,549.8
+10122,402.44,322.25,46,73.99,Paid Search,East,1,True,1.25
+10136,762.24,160.82,51,80.12,Paid Search,West,1,True,4.74
+10146,244.62,-84.78,12,80.7,Paid Search,East,0,False,244.62
+10151,472.27,239.8,42,92.55,Paid Search,South,1,True,1.97
+10157,392.34,-260.5,18,81.71,Organic,North,0,False,392.34
+10162,240.95,-202.39,11,85.4,Organic,West,0,False,240.95
+10168,293.18,-102.11,12,86.6,Referral,South,0,False,293.18
+10183,671.3,-114.88,49,92.25,Paid Search,West,1,False,671.3
+10184,296.3,-70.02,14,77.14,Paid Search,South,0,False,296.3
+10193,697.0,444.74,58,82.55,Organic,North,1,True,1.57
+10204,271.32,-94.67,12,67.09,Organic,South,0,False,271.32
+10211,624.06,-120.81,43,90.81,Referral,East,1,False,624.06
+10222,261.83,-138.25,8,85.5,Organic,North,0,False,261.83
+10228,584.51,210.91,41,92.32,Organic,South,1,True,2.77
+10231,942.97,80.49,71,78.59,Organic,East,1,True,11.72
+10238,695.87,-40.34,40,89.4,Paid Search,East,1,False,695.87
+10241,564.14,-489.91,41,91.81,Social,South,1,False,564.14
+10246,256.46,-31.21,16,89.23,Referral,West,0,False,256.46
+10257,309.82,-237.67,11,63.22,Organic,South,0,False,309.82
+10261,310.47,-310.56,10,90.85,Paid Search,East,0,False,310.47
+10265,262.96,-83.27,13,87.88,Paid Search,North,0,False,262.96
+10267,270.25,-60.5,13,96.88,Paid Search,South,0,False,270.25
+10268,739.2,-382.55,52,88.53,Paid Search,South,1,False,739.2
+10270,600.27,-19.23,50,77.06,Organic,East,1,False,600.27
+10274,571.0,113.42,44,80.9,Social,South,1,True,5.03
+10284,737.39,-319.38,49,69.63,Paid Search,West,1,False,737.39
+10285,233.27,-189.12,11,75.37,Referral,North,0,False,233.27
+10328,677.15,94.17,50,82.73,Social,North,1,True,7.19
+10338,560.2,114.93,50,85.18,Organic,South,1,True,4.87
+10342,233.69,-105.63,12,79.3,Referral,South,0,False,233.69
+10363,260.12,-160.51,6,92.19,Paid Search,West,0,False,260.12
+10403,416.78,373.73,38,94.0,Paid Search,East,1,True,1.12
+10415,266.25,30.03,12,93.52,Paid Search,East,0,True,8.87
+10416,260.58,-284.0,9,75.13,Paid Search,South,0,False,260.58
+10436,597.39,224.71,46,88.31,Referral,East,1,True,2.66
+10452,341.63,-134.42,10,90.27,Referral,South,0,False,341.63
+10473,230.76,-24.85,13,97.31,Paid Search,East,0,False,230.76
+10477,523.63,146.18,49,85.67,Social,East,1,True,3.58
+10479,510.97,28.84,46,82.94,Paid Search,East,1,True,17.72
+10496,589.15,-58.11,41,84.87,Paid Search,South,1,False,589.15
+10506,731.57,-541.33,51,85.15,Paid Search,East,1,False,731.57
+10513,889.66,3.02,60,91.06,Paid Search,East,1,True,294.59
+10543,595.07,-239.31,43,79.68,Referral,North,1,False,595.07
+10555,313.51,-352.3,12,74.78,Paid Search,West,0,False,313.51
+10587,842.36,378.47,55,93.01,Referral,North,1,True,2.23
+10600,258.33,-34.18,15,94.85,Paid Search,West,0,False,258.33
+10612,251.69,0.65,14,78.74,Paid Search,West,0,True,251.69
+10622,332.81,-192.1,11,68.94,Paid Search,East,0,False,332.81
+10629,247.51,-146.77,13,83.09,Referral,East,0,False,247.51
+10642,591.52,-60.84,46,92.6,Paid Search,West,1,False,591.52
+10643,677.45,-116.38,52,78.18,Organic,East,1,False,677.45
+10644,235.44,-76.76,12,74.85,Organic,East,0,False,235.44
+10649,742.64,-535.75,43,96.56,Paid Search,North,1,False,742.64
+10667,748.24,247.42,59,88.1,Paid Search,West,1,True,3.02
+10726,680.06,26.53,51,81.86,Paid Search,East,1,True,25.63
+10729,774.2,21.0,51,76.58,Paid Search,South,1,True,36.87
+10731,272.03,-107.42,12,70.3,Paid Search,West,0,False,272.03
+10732,629.59,-239.74,46,85.43,Paid Search,East,1,False,629.59
+10739,297.33,-38.07,13,87.17,Paid Search,South,0,False,297.33
+10742,710.23,-214.62,48,95.5,Referral,North,1,False,710.23
+10747,233.16,-253.21,11,95.7,Paid Search,East,0,False,233.16
+10749,632.36,-51.48,40,81.16,Referral,West,1,False,632.36
+10751,682.35,-115.75,56,84.47,Paid Search,North,1,False,682.35
+10766,442.51,-27.82,40,94.8,Social,North,1,False,442.51
+10769,862.34,-81.74,47,83.77,Paid Search,North,1,False,862.34
+10771,273.36,-147.46,13,90.45,Paid Search,South,0,False,273.36
+10780,753.32,45.04,46,79.26,Paid Search,South,1,True,16.73
+10791,298.23,8.85,17,82.68,Paid Search,West,0,True,33.7
+10796,249.77,-21.79,7,116.37,Referral,South,0,False,249.77
+10807,548.23,320.56,57,87.07,Organic,West,1,True,1.71
+10828,711.61,-238.8,38,94.78,Social,North,1,False,711.61
+10839,314.03,-130.87,11,115.64,Paid Search,North,0,False,314.03
+10841,285.98,-242.01,9,94.5,Organic,West,0,False,285.98
+10847,877.82,-318.16,49,84.01,Organic,North,1,False,877.82
+10848,587.12,-4.29,45,88.07,Paid Search,East,1,False,587.12
+10861,1050.57,-626.43,42,93.75,Paid Search,West,1,False,1050.57
+10863,281.85,-172.13,11,84.71,Paid Search,West,0,False,281.85
+10865,237.56,-72.83,8,98.04,Paid Search,North,0,False,237.56
+10873,236.83,-41.61,9,88.42,Organic,West,0,False,236.83
+10884,694.37,-295.9,40,81.25,Paid Search,North,1,False,694.37
+10897,269.76,-178.83,12,73.97,Referral,East,0,False,269.76
+10898,645.2,-100.8,52,89.0,Paid Search,South,1,False,645.2
+10899,670.44,-152.37,55,83.19,Paid Search,West,1,False,670.44
+10906,241.21,-227.29,8,63.19,Referral,West,0,False,241.21
+10913,599.33,129.22,51,87.72,Organic,North,1,True,4.64
+10920,243.86,-146.99,12,61.01,Social,South,0,False,243.86
+10921,248.52,-277.49,11,67.27,Organic,North,0,False,248.52
+10923,707.44,-134.19,46,87.48,Organic,West,1,False,707.44
+10940,298.0,-111.25,11,76.75,Paid Search,East,0,False,298.0
+10960,285.93,-217.42,12,78.45,Referral,West,0,False,285.93
+10968,257.85,-183.86,12,66.91,Paid Search,North,0,False,257.85
+10973,774.97,82.49,46,83.94,Paid Search,East,1,True,9.39
+10977,233.88,-49.35,17,79.31,Paid Search,West,0,False,233.88
+10993,779.08,-399.39,59,94.75,Referral,West,1,False,779.08
+10995,1136.18,-628.04,49,84.37,Social,North,1,False,1136.18
+11004,312.24,-227.08,12,80.87,Organic,North,0,False,312.24
+11020,282.5,-139.43,12,89.61,Referral,North,0,False,282.5
+11023,236.56,-128.94,11,83.35,Organic,South,0,False,236.56
+11033,671.13,-387.27,53,77.37,Paid Search,East,1,False,671.13
+11043,240.07,-135.8,9,102.59,Social,North,0,False,240.07
+11088,260.1,-105.04,12,75.01,Paid Search,West,0,False,260.1
+11095,341.58,-263.88,10,63.74,Referral,East,0,False,341.58
+11097,555.64,-165.1,40,96.14,Social,South,1,False,555.64
+11101,236.03,4.51,11,112.42,Paid Search,South,0,True,52.33
+11105,255.3,-66.83,10,88.32,Organic,East,0,False,255.3
+11107,399.38,-209.13,33,87.84,Social,South,1,False,399.38
+11110,930.45,46.37,69,89.42,Referral,South,1,True,20.07
+11128,496.02,137.39,42,98.82,Paid Search,South,1,True,3.61
+11131,353.0,-219.49,10,77.3,Paid Search,South,0,False,353.0
+11136,747.59,121.12,54,80.31,Referral,North,1,True,6.17
+11148,686.76,-18.99,54,82.91,Social,West,1,False,686.76
+11163,362.91,-349.18,12,101.11,Referral,South,0,False,362.91
+11172,260.02,-261.13,13,76.88,Social,North,0,False,260.02
+11181,518.95,154.68,48,92.16,Paid Search,North,1,True,3.35
+11197,626.54,-268.63,45,84.36,Referral,East,1,False,626.54
+11209,308.35,-48.93,11,77.19,Paid Search,West,0,False,308.35
+11230,238.72,-17.12,14,98.46,Paid Search,West,0,False,238.72
+11231,844.37,-223.23,50,85.16,Organic,North,1,False,844.37
+11246,267.87,-320.31,10,84.6,Organic,North,0,False,267.87
+11248,317.03,-87.02,13,91.0,Paid Search,South,0,False,317.03
+11280,770.94,35.49,60,81.91,Social,East,1,True,21.72
+11301,521.12,-347.52,40,78.32,Paid Search,West,1,False,521.12
+11307,288.39,-10.74,12,100.03,Paid Search,North,0,False,288.39
+11323,572.08,114.32,39,81.31,Paid Search,North,1,True,5.0
+11324,259.5,-44.18,9,77.09,Paid Search,West,0,False,259.5
+11339,663.56,-747.94,45,94.02,Social,East,1,False,663.56
+11353,235.9,-2.26,9,93.37,Organic,West,0,False,235.9
+11368,267.73,-153.26,15,79.23,Organic,West,0,False,267.73
+11370,595.18,-238.65,41,80.96,Paid Search,North,1,False,595.18
+11407,631.83,173.36,49,76.87,Paid Search,West,1,True,3.64
+11413,694.72,681.47,53,86.97,Paid Search,South,1,True,1.02
+11416,792.43,122.23,50,76.75,Organic,North,1,True,6.48
+11443,636.85,148.09,42,84.43,Organic,West,1,True,4.3
+11458,821.71,551.09,65,92.23,Organic,West,1,True,1.49
+11469,236.07,121.8,15,100.35,Organic,North,0,True,1.94
+11488,348.68,146.36,41,74.42,Paid Search,West,1,True,2.38
+11492,236.87,-76.8,12,83.45,Organic,East,0,False,236.87
+11509,286.56,-77.79,14,73.94,Referral,North,0,False,286.56
+11523,255.85,-57.73,12,62.25,Organic,East,0,False,255.85
+11542,561.6,610.15,49,90.1,Paid Search,West,1,True,0.92
+11560,261.5,-129.0,14,104.93,Organic,South,0,False,261.5
+11567,997.54,157.95,50,86.81,Paid Search,East,1,True,6.32
+11569,244.79,-113.52,11,84.9,Social,North,0,False,244.79
+11570,672.24,-150.81,51,86.71,Paid Search,East,1,False,672.24
+11581,241.87,-87.27,11,106.39,Organic,North,0,False,241.87
+11589,878.57,-460.76,46,78.01,Organic,North,1,False,878.57
+11590,276.1,-123.36,11,81.79,Referral,West,0,False,276.1
+11631,370.92,-198.51,14,96.32,Paid Search,North,0,False,370.92
+11641,272.53,142.52,17,104.21,Referral,East,0,True,1.91
+11644,980.4,-494.64,63,75.7,Social,South,1,False,980.4
+11656,267.78,-139.87,10,89.1,Paid Search,West,0,False,267.78
+11671,259.17,-72.15,9,90.97,Paid Search,East,0,False,259.17
+11686,233.4,-231.57,10,48.98,Paid Search,West,0,False,233.4
+11688,573.91,-129.74,50,75.31,Organic,East,1,False,573.91
+11690,685.14,-736.31,49,76.31,Referral,West,1,False,685.14
+11707,629.15,-13.56,48,95.51,Paid Search,East,1,False,629.15
+11709,259.3,-187.6,17,71.73,Paid Search,West,0,False,259.3
+11729,242.72,-116.56,9,72.26,Social,West,0,False,242.72
+11733,866.52,-165.26,44,95.37,Paid Search,East,1,False,866.52
+11735,569.99,183.14,49,85.44,Referral,East,1,True,3.11
+11746,676.85,60.01,54,72.12,Referral,West,1,True,11.28
+11758,289.77,-263.72,16,102.84,Paid Search,North,0,False,289.77
+11761,619.51,78.61,47,96.96,Social,East,1,True,7.88
+11765,586.4,43.87,50,81.88,Organic,West,1,True,13.37
+11775,241.49,-330.05,8,73.1,Social,South,0,False,241.49
+11777,894.45,-1.26,46,78.8,Paid Search,East,1,False,894.45
+11779,770.8,-108.23,47,85.55,Organic,West,1,False,770.8
+11784,295.81,-269.12,9,100.28,Paid Search,North,0,False,295.81
+11786,278.38,-49.26,9,115.0,Social,North,0,False,278.38
+11791,550.42,-296.42,52,83.69,Organic,West,1,False,550.42
+11794,881.84,171.34,57,93.81,Paid Search,North,1,True,5.15
+11796,305.54,-85.59,14,99.91,Referral,East,0,False,305.54
+11803,256.06,-239.47,7,62.88,Paid Search,North,0,False,256.06
+11822,231.81,-55.3,12,91.64,Referral,South,0,False,231.81
+11826,567.54,-55.64,52,87.06,Organic,North,1,False,567.54
+11845,1128.25,-543.59,52,99.63,Organic,South,1,False,1128.25
+11848,748.32,-167.61,57,82.48,Organic,East,1,False,748.32
+11851,239.92,-209.93,9,84.78,Social,South,0,False,239.92
+11879,288.76,-187.24,13,82.03,Organic,East,0,False,288.76
+11883,565.32,87.47,53,70.53,Paid Search,North,1,True,6.46
+11932,271.58,-159.62,12,69.52,Organic,South,0,False,271.58
+11942,683.1,229.29,52,84.94,Social,East,1,True,2.98
+11943,342.45,-154.09,13,79.66,Paid Search,South,0,False,342.45
+11954,258.26,-64.79,13,79.39,Referral,East,0,False,258.26
+11962,273.04,-213.1,6,84.57,Referral,West,0,False,273.04
+11969,453.66,351.73,42,87.09,Referral,North,1,True,1.29
+11994,610.77,349.78,58,83.71,Paid Search,West,1,True,1.75
+11995,259.76,-344.77,9,76.07,Paid Search,East,0,False,259.76
+12001,294.82,-271.66,8,79.32,Paid Search,West,0,False,294.82
+12004,271.99,-76.22,9,89.31,Referral,South,0,False,271.99
+12005,546.24,-369.44,39,93.14,Social,West,1,False,546.24
+12019,566.97,-52.86,45,72.79,Social,East,1,False,566.97
+12026,730.47,226.85,52,87.86,Organic,West,1,True,3.22
+12028,663.71,-626.17,48,75.04,Paid Search,North,1,False,663.71
+12031,282.58,2.08,16,81.66,Paid Search,West,0,True,135.86
+12044,655.58,-209.0,55,78.29,Paid Search,North,1,False,655.58
+12054,448.52,-165.19,40,81.55,Paid Search,East,1,False,448.52
+12055,416.31,-230.55,13,85.98,Paid Search,West,0,False,416.31
+12087,623.67,57.05,47,81.7,Organic,North,1,True,10.93
+12098,463.93,-113.02,39,89.77,Paid Search,East,1,False,463.93
+12103,324.73,-293.33,11,90.33,Organic,East,0,False,324.73
+12106,550.0,-130.26,35,82.22,Paid Search,East,1,False,550.0
+12107,296.47,-103.94,12,80.52,Paid Search,South,0,False,296.47
+12126,243.22,-77.15,9,81.19,Referral,South,0,False,243.22
+12153,362.41,-161.19,13,71.64,Referral,South,0,False,362.41
+12155,624.63,-17.42,48,81.09,Organic,West,1,False,624.63
+12198,308.09,-229.39,11,86.16,Paid Search,East,0,False,308.09
+12206,542.53,459.79,51,88.64,Referral,South,1,True,1.18
+12211,253.55,-294.65,10,74.17,Paid Search,West,0,False,253.55
+12214,317.24,-17.36,15,96.49,Organic,West,0,False,317.24
+12218,269.33,-102.84,10,89.75,Organic,South,0,False,269.33
+12219,642.42,36.6,44,76.05,Social,East,1,True,17.55
+12220,914.0,-14.36,50,90.32,Paid Search,North,1,False,914.0
+12232,912.92,-619.85,46,86.87,Paid Search,East,1,False,912.92
+12240,279.85,-134.89,11,77.0,Organic,West,0,False,279.85
+12243,870.35,-686.91,51,82.49,Paid Search,West,1,False,870.35
+12258,241.06,-75.52,9,98.04,Paid Search,East,0,False,241.06
+12261,329.49,-147.17,11,97.88,Organic,South,0,False,329.49
+12270,249.09,61.04,12,94.48,Organic,West,0,True,4.08
+12278,687.93,-181.79,48,92.19,Organic,South,1,False,687.93
+12298,1076.57,-217.96,60,91.33,Organic,North,1,False,1076.57
+12301,952.09,-584.26,49,85.57,Paid Search,South,1,False,952.09
+12304,550.5,-95.05,42,80.11,Organic,East,1,False,550.5
+12352,475.63,57.21,36,93.91,Referral,West,1,True,8.31
+12353,270.52,-62.14,11,78.77,Referral,West,0,False,270.52
+12358,271.61,-102.7,8,92.59,Paid Search,East,0,False,271.61
+12360,284.46,-56.11,11,97.71,Referral,East,0,False,284.46
+12368,269.13,62.47,13,91.84,Organic,West,0,True,4.31
+12372,729.25,-209.31,49,81.34,Organic,South,1,False,729.25
+12376,293.14,-155.15,14,85.11,Paid Search,West,0,False,293.14
+12385,435.1,-391.57,15,86.75,Organic,East,0,False,435.1
+12387,1016.11,-500.56,62,76.77,Social,South,1,False,1016.11
+12389,606.9,-396.5,42,78.01,Social,North,1,False,606.9
+12399,631.95,-28.68,52,80.34,Paid Search,North,1,False,631.95
+12404,261.42,5.4,13,80.91,Paid Search,South,0,True,48.41
+12420,730.63,-160.66,49,96.76,Paid Search,East,1,False,730.63
+12431,397.57,213.4,38,97.79,Organic,South,1,True,1.86
+12446,682.28,162.82,49,75.78,Paid Search,South,1,True,4.19
+12449,232.04,-99.58,8,97.26,Paid Search,South,0,False,232.04
+12454,490.76,-335.78,19,95.71,Paid Search,West,0,False,490.76
+12455,248.3,-180.59,13,77.4,Paid Search,North,0,False,248.3
+12457,644.91,373.3,56,83.19,Referral,West,1,True,1.73
+12474,663.2,197.66,51,94.26,Paid Search,East,1,True,3.36
+12495,249.92,48.55,10,96.36,Paid Search,East,0,True,5.15
+12499,241.1,45.9,9,111.93,Organic,South,0,True,5.25
+12510,662.22,-139.53,54,89.14,Paid Search,South,1,False,662.22
+12522,270.18,-96.96,10,95.44,Paid Search,West,0,False,270.18
+12524,298.19,-132.41,17,78.29,Referral,East,0,False,298.19
+12529,739.13,-188.43,58,88.95,Paid Search,West,1,False,739.13
+12550,246.45,-137.4,10,74.95,Organic,North,0,False,246.45
+12554,567.32,-234.92,48,86.2,Paid Search,North,1,False,567.32
+12576,262.77,-9.5,9,85.76,Paid Search,North,0,False,262.77
+12588,266.2,-112.08,12,86.86,Social,West,0,False,266.2
+12607,267.29,-248.76,8,63.27,Organic,South,0,False,267.29
+12610,248.39,-68.16,13,73.41,Social,East,0,False,248.39
+12646,255.17,-142.97,13,77.67,Organic,North,0,False,255.17
+12647,635.28,76.35,58,83.56,Paid Search,North,1,True,8.32
+12653,806.17,-5.22,56,87.38,Organic,North,1,False,806.17
+12699,237.05,12.81,13,97.03,Paid Search,West,0,True,18.51
+12709,326.25,-106.59,13,83.65,Paid Search,East,0,False,326.25
+12713,262.32,-135.17,7,94.05,Paid Search,South,0,False,262.32
+12724,233.3,-144.09,10,71.96,Organic,West,0,False,233.3
+12731,526.99,74.56,36,81.57,Paid Search,East,1,True,7.07
+12764,249.35,-109.48,9,77.39,Organic,South,0,False,249.35
+12774,246.55,-216.58,9,84.32,Social,West,0,False,246.55
+12776,636.4,-151.66,48,78.71,Organic,North,1,False,636.4
+12778,271.05,24.54,17,88.97,Organic,West,0,True,11.05
+12790,1199.39,-602.77,57,97.67,Social,East,1,False,1199.39
+12791,777.67,-159.09,52,78.29,Paid Search,North,1,False,777.67
+12793,290.87,-163.89,14,78.33,Paid Search,North,0,False,290.87
+12796,252.91,-156.47,9,86.79,Social,South,0,False,252.91
+12798,464.35,413.65,53,82.36,Organic,North,1,True,1.12
+12799,426.46,380.73,41,94.5,Referral,West,1,True,1.12
+12801,232.13,85.17,10,111.78,Paid Search,East,0,True,2.73
+12813,245.99,31.08,9,98.05,Organic,South,0,True,7.91
+12840,493.83,179.02,44,81.74,Organic,East,1,True,2.76
+12855,328.06,-180.97,17,86.27,Referral,East,0,False,328.06
+12859,241.76,-250.2,14,100.65,Paid Search,North,0,False,241.76
+12860,661.51,3.0,45,82.48,Organic,North,1,True,220.5
+12866,661.84,-82.15,56,84.73,Paid Search,North,1,False,661.84
+12872,249.56,-162.87,9,69.87,Social,West,0,False,249.56
+12890,264.54,-149.29,9,65.84,Paid Search,West,0,False,264.54
+12891,267.76,-34.55,15,80.06,Paid Search,West,0,False,267.76
+12918,445.21,124.93,35,86.73,Organic,North,1,True,3.56
+12935,495.47,271.53,38,93.56,Organic,South,1,True,1.82
+12941,287.97,-223.56,10,94.47,Organic,East,0,False,287.97
+12958,284.74,-76.58,16,88.57,Organic,West,0,False,284.74
+12964,630.98,-75.93,41,73.08,Paid Search,South,1,False,630.98
+12972,235.62,-278.67,9,71.73,Organic,South,0,False,235.62
+12978,248.8,93.41,10,104.67,Social,North,0,True,2.66
+12988,982.12,-90.77,54,83.45,Organic,East,1,False,982.12
+13000,641.86,583.84,55,81.04,Paid Search,South,1,True,1.1
+13012,251.67,-172.08,12,54.65,Social,South,0,False,251.67
+13023,240.68,-231.22,10,71.54,Organic,South,0,False,240.68
+13044,1034.24,-272.5,51,83.75,Organic,South,1,False,1034.24
+13050,478.79,-137.69,42,73.11,Paid Search,West,1,False,478.79
+13053,861.52,-27.3,51,98.51,Paid Search,East,1,False,861.52
+13060,252.87,-290.8,13,75.6,Organic,North,0,False,252.87
+13064,896.43,-187.34,49,93.44,Paid Search,North,1,False,896.43
+13074,515.89,19.89,44,92.74,Paid Search,North,1,True,25.94
+13076,929.63,-72.21,59,90.14,Paid Search,East,1,False,929.63
+13086,462.28,179.64,36,83.7,Organic,South,1,True,2.57
+13088,259.93,-242.04,12,104.19,Paid Search,West,0,False,259.93
+13105,869.3,-547.96,48,75.38,Organic,South,1,False,869.3
+13154,866.86,228.89,47,103.94,Organic,South,1,True,3.79
+13176,846.89,82.97,57,87.18,Paid Search,South,1,True,10.21
+13180,625.33,147.05,48,87.55,Paid Search,North,1,True,4.25
+13184,624.82,79.43,49,72.92,Organic,North,1,True,7.87
+13189,246.46,-212.92,8,86.09,Paid Search,North,0,False,246.46
+13196,265.48,-38.94,16,80.48,Social,North,0,False,265.48
+13197,938.84,-983.98,44,95.45,Paid Search,West,1,False,938.84
+13209,670.32,119.43,39,90.06,Organic,South,1,True,5.61
+13217,318.71,-81.46,12,90.92,Paid Search,North,0,False,318.71
+13235,445.34,-28.26,45,76.35,Organic,East,1,False,445.34
+13249,806.13,-292.6,52,81.95,Referral,West,1,False,806.13
+13253,255.79,-21.9,12,91.73,Paid Search,South,0,False,255.79
+13263,262.69,-167.47,6,77.22,Paid Search,South,0,False,262.69
+13270,1008.63,-438.61,38,90.65,Paid Search,West,1,False,1008.63
+13271,261.59,-91.6,10,84.79,Paid Search,East,0,False,261.59
+13274,768.9,-482.5,52,71.38,Referral,North,1,False,768.9
+13276,272.56,-5.13,15,80.59,Organic,South,0,False,272.56
+13308,362.36,-339.38,9,83.17,Organic,North,0,False,362.36
+13326,375.29,265.84,34,74.43,Social,North,1,True,1.41
+13327,301.23,-224.66,14,87.07,Referral,South,0,False,301.23
+13328,510.49,75.22,47,86.59,Paid Search,West,1,True,6.79
+13329,399.25,155.38,38,96.86,Organic,West,1,True,2.57
+13334,799.87,-465.12,50,86.95,Paid Search,West,1,False,799.87
+13340,729.43,248.9,52,78.23,Paid Search,South,1,True,2.93
+13349,303.65,-195.2,8,75.13,Paid Search,West,0,False,303.65
+13355,885.6,375.41,48,96.37,Referral,East,1,True,2.36
+13358,502.21,-92.38,33,95.05,Organic,South,1,False,502.21
+13382,407.06,188.32,41,67.35,Paid Search,East,1,True,2.16
+13384,289.28,-32.41,14,109.56,Referral,North,0,False,289.28
+13386,304.68,78.32,12,118.03,Paid Search,North,0,True,3.89
+13390,244.13,-100.78,9,70.64,Organic,North,0,False,244.13
+13397,280.95,-163.97,6,98.1,Referral,West,0,False,280.95
+13404,689.37,-183.59,47,76.46,Paid Search,West,1,False,689.37
+13407,584.67,-187.82,38,78.99,Paid Search,West,1,False,584.67
+13416,561.47,-42.52,43,74.92,Paid Search,West,1,False,561.47
+13418,235.7,-71.18,17,87.53,Social,West,0,False,235.7
+13432,348.39,-215.89,11,88.04,Referral,West,0,False,348.39
+13450,292.85,-33.83,15,77.86,Social,North,0,False,292.85
+13453,248.06,-96.92,9,103.49,Paid Search,West,0,False,248.06
+13455,235.19,32.31,14,93.45,Paid Search,North,0,True,7.28
+13458,589.81,77.26,48,81.14,Referral,South,1,True,7.63
+13461,257.37,-107.39,9,83.13,Paid Search,North,0,False,257.37
+13473,572.88,-66.01,43,90.26,Social,South,1,False,572.88
+13474,422.45,80.77,45,83.72,Paid Search,West,1,True,5.23
+13485,479.53,-130.87,47,84.63,Paid Search,South,1,False,479.53
+13496,235.11,-121.43,10,78.35,Organic,East,0,False,235.11
+13504,734.73,145.04,46,93.57,Organic,North,1,True,5.07
+13506,817.2,-177.92,45,91.14,Paid Search,North,1,False,817.2
+13531,244.67,-237.56,15,79.13,Social,North,0,False,244.67
+13541,562.42,279.59,48,83.36,Organic,South,1,True,2.01
+13566,575.11,394.77,51,90.6,Organic,East,1,True,1.46
+13575,718.92,-18.15,55,77.33,Organic,West,1,False,718.92
+13582,1111.4,-129.7,52,73.47,Organic,North,1,False,1111.4
+13584,465.84,-146.51,43,74.36,Paid Search,North,1,False,465.84
+13591,726.0,97.92,55,78.77,Paid Search,South,1,True,7.41
+13594,279.01,-176.53,12,78.86,Paid Search,South,0,False,279.01
+13615,496.94,88.27,45,75.47,Social,West,1,True,5.63
+13618,442.16,303.17,44,83.95,Paid Search,East,1,True,1.46
+13626,700.93,-134.71,51,86.83,Referral,South,1,False,700.93
+13627,251.13,-43.58,7,117.19,Paid Search,West,0,False,251.13
+13631,504.0,26.2,45,70.7,Paid Search,North,1,True,19.24
+13655,622.66,450.81,58,85.92,Organic,South,1,True,1.38
+13662,268.29,-14.68,10,88.78,Organic,South,0,False,268.29
+13671,578.33,-215.81,39,77.52,Paid Search,North,1,False,578.33
+13673,426.0,335.38,37,91.51,Referral,North,1,True,1.27
+13675,331.03,-67.65,13,108.22,Organic,South,0,False,331.03
+13704,573.34,-70.06,42,90.58,Referral,North,1,False,573.34
+13718,802.53,-177.52,41,83.94,Paid Search,South,1,False,802.53
+13747,301.63,-255.94,14,70.69,Organic,North,0,False,301.63
+13768,339.46,-99.49,19,71.56,Paid Search,West,0,False,339.46
+13783,268.26,90.52,13,92.37,Organic,East,0,True,2.96
+13798,478.31,-98.71,45,81.07,Organic,South,1,False,478.31
+13804,242.03,-138.71,13,95.47,Organic,North,0,False,242.03
+13813,289.34,-15.27,14,91.9,Organic,South,0,False,289.34
+13822,247.63,-11.37,7,109.49,Organic,North,0,False,247.63
+13836,627.17,-324.86,40,72.41,Paid Search,South,1,False,627.17
+13848,328.68,-171.03,8,87.16,Paid Search,East,0,False,328.68
+13858,788.42,-294.12,51,94.87,Paid Search,South,1,False,788.42
+13869,296.52,-398.96,15,74.58,Organic,North,0,False,296.52
+13875,298.79,-126.36,10,85.39,Paid Search,North,0,False,298.79
+13881,254.24,-177.13,13,68.9,Organic,South,0,False,254.24
+13889,240.9,-120.35,9,111.13,Paid Search,South,0,False,240.9
+13907,294.4,-133.48,11,78.98,Paid Search,North,0,False,294.4
+13995,238.4,-79.84,12,106.13,Organic,South,0,False,238.4
+13999,233.26,-328.62,11,84.5,Referral,West,0,False,233.26
+14011,236.94,-72.49,9,106.89,Paid Search,East,0,False,236.94
+14013,255.57,-151.64,12,63.08,Social,South,0,False,255.57
+14015,277.92,-173.94,7,99.86,Referral,South,0,False,277.92
+14022,741.11,294.01,57,102.91,Paid Search,South,1,True,2.52
+14032,305.26,-141.25,12,81.42,Paid Search,South,0,False,305.26
+14042,282.17,-159.45,7,78.4,Organic,East,0,False,282.17
+14045,249.67,-22.58,7,98.79,Social,West,0,False,249.67
+14046,550.99,-7.73,44,82.8,Social,East,1,False,550.99
+14049,1053.29,-434.59,48,98.2,Paid Search,North,1,False,1053.29
+14052,462.86,251.5,51,87.74,Social,East,1,True,1.84
+14073,279.87,-275.73,12,89.42,Paid Search,West,0,False,279.87
+14094,1038.01,-636.03,54,83.42,Organic,West,1,False,1038.01
+14095,241.43,-159.01,8,70.27,Referral,West,0,False,241.43
+14136,496.87,66.25,45,96.32,Paid Search,North,1,True,7.5
+14158,676.14,-305.77,56,79.46,Organic,East,1,False,676.14
+14169,603.39,552.53,50,80.25,Organic,East,1,True,1.09
+14213,450.38,401.61,43,83.48,Social,East,1,True,1.12
+14226,422.15,-0.85,39,73.9,Organic,East,1,False,422.15
+14234,318.89,-135.24,11,95.91,Organic,East,0,False,318.89
+14246,356.26,-45.95,18,75.69,Paid Search,North,0,False,356.26
+14251,234.09,-106.31,10,80.4,Paid Search,South,0,False,234.09
+14252,399.39,-281.05,11,85.65,Referral,North,0,False,399.39
+14266,493.61,-125.92,42,78.96,Paid Search,East,1,False,493.61
+14270,282.58,-4.65,17,79.53,Paid Search,North,0,False,282.58
+14276,743.65,340.01,67,69.92,Paid Search,South,1,True,2.19
+14278,252.53,-17.67,8,93.08,Paid Search,East,0,False,252.53
+14288,315.87,-301.39,13,85.51,Paid Search,North,0,False,315.87
+14296,569.61,-123.99,44,78.96,Referral,East,1,False,569.61
+14327,509.85,-72.35,45,71.79,Referral,South,1,False,509.85
+14330,270.92,-81.96,10,61.49,Paid Search,West,0,False,270.92
+14331,869.46,555.77,59,91.55,Social,South,1,True,1.56
+14342,234.83,-76.13,13,59.05,Organic,South,0,False,234.83
+14343,473.03,261.39,47,83.55,Paid Search,North,1,True,1.81
+14345,267.35,-6.88,12,96.65,Organic,West,0,False,267.35
+14349,232.76,-69.55,11,71.04,Organic,West,0,False,232.76
+14353,307.71,-159.59,15,92.21,Organic,West,0,False,307.71
+14359,243.55,-28.07,9,115.6,Paid Search,East,0,False,243.55
+14361,307.76,-210.71,9,64.33,Paid Search,East,0,False,307.76
+14371,514.05,407.07,59,88.67,Paid Search,North,1,True,1.26
+14373,247.33,-61.83,10,92.47,Paid Search,North,0,False,247.33
+14374,857.49,-250.55,56,80.25,Paid Search,West,1,False,857.49
+14392,243.48,-178.12,9,69.11,Referral,East,0,False,243.48
+14397,762.43,-337.7,50,87.81,Social,South,1,False,762.43
+14400,264.26,-56.64,8,76.96,Paid Search,West,0,False,264.26
+14431,283.73,-90.1,10,94.65,Paid Search,East,0,False,283.73
+14439,861.05,-276.63,53,86.24,Organic,West,1,False,861.05
+14451,826.24,-641.64,51,92.82,Referral,North,1,False,826.24
+14473,458.75,422.02,45,82.88,Paid Search,West,1,True,1.09
+14482,281.57,-52.46,12,96.48,Paid Search,West,0,False,281.57
+14485,255.29,-185.34,8,62.7,Organic,East,0,False,255.29
+14488,232.71,-149.89,6,81.15,Organic,North,0,False,232.71
+14495,743.32,-452.49,60,78.8,Social,South,1,False,743.32
+14506,1020.11,-375.67,57,80.07,Referral,West,1,False,1020.11
+14516,271.31,42.6,12,75.5,Social,West,0,True,6.37
+14533,536.69,283.11,42,72.38,Paid Search,East,1,True,1.9
+14534,616.53,-358.33,47,74.74,Organic,South,1,False,616.53
+14535,237.73,-333.53,8,87.21,Paid Search,West,0,False,237.73
+14540,283.05,-238.38,13,64.62,Referral,West,0,False,283.05
+14555,677.08,-466.4,55,83.52,Paid Search,North,1,False,677.08
+14564,564.6,-92.12,43,73.04,Organic,East,1,False,564.6
+14572,300.06,-92.43,8,105.5,Paid Search,North,0,False,300.06
+14581,265.63,-161.04,10,67.01,Social,South,0,False,265.63
+14584,843.93,-380.27,47,74.61,Referral,East,1,False,843.93
+14585,230.72,-96.85,12,104.0,Paid Search,East,0,False,230.72
+14598,255.63,-290.87,8,73.43,Social,South,0,False,255.63
+14608,250.44,-124.76,10,87.82,Organic,West,0,False,250.44
+14631,257.99,67.84,18,93.91,Paid Search,North,0,True,3.8
+14642,286.55,-155.44,17,88.87,Referral,South,0,False,286.55
+14646,923.89,-143.56,61,85.6,Paid Search,North,1,False,923.89
+14675,552.63,-152.69,48,80.61,Referral,East,1,False,552.63
+14677,641.34,405.93,49,91.58,Organic,South,1,True,1.58
+14684,632.81,136.96,53,78.95,Paid Search,North,1,True,4.62
+14695,234.69,94.03,15,82.74,Referral,North,0,True,2.5
+14696,233.51,-158.46,8,83.32,Paid Search,South,0,False,233.51
+14712,274.12,-6.97,12,79.98,Organic,East,0,False,274.12
+14713,500.47,143.12,40,78.19,Referral,South,1,True,3.5
+14733,246.88,88.65,14,84.43,Organic,West,0,True,2.78
+14744,237.02,72.61,14,101.84,Organic,North,0,True,3.26
+14783,247.36,-222.64,8,132.66,Paid Search,East,0,False,247.36
+14784,288.84,-115.04,15,94.74,Paid Search,East,0,False,288.84
+14801,1111.51,-584.0,60,93.31,Paid Search,North,1,False,1111.51
+14815,781.46,-432.76,49,67.7,Organic,East,1,False,781.46
+14819,686.65,730.54,55,89.07,Referral,South,1,True,0.94
+14826,638.86,122.91,48,76.38,Social,North,1,True,5.2
+14847,541.06,6.28,49,78.74,Organic,East,1,True,86.16
+14851,251.66,-278.76,13,72.62,Paid Search,East,0,False,251.66
+14865,548.44,-41.28,51,70.04,Organic,West,1,False,548.44
+14877,857.67,-117.3,45,76.12,Paid Search,West,1,False,857.67
+14885,606.11,40.1,50,80.51,Organic,East,1,True,15.11
+14899,245.48,70.63,13,71.19,Organic,West,0,True,3.48
+14904,575.97,-425.49,50,80.02,Social,West,1,False,575.97
+14914,834.73,-28.19,58,82.78,Organic,East,1,False,834.73
+14928,651.74,198.74,52,91.19,Organic,East,1,True,3.28
+14939,547.32,130.09,41,86.02,Paid Search,South,1,True,4.21
+14978,473.19,44.34,43,75.21,Organic,West,1,True,10.67
+14999,445.13,90.15,40,88.67,Social,South,1,True,4.94
+15012,456.43,430.09,50,77.62,Paid Search,East,1,True,1.06
+15023,352.77,228.65,34,81.98,Paid Search,West,1,True,1.54
+15024,671.42,31.81,54,87.66,Organic,West,1,True,21.11
+15026,261.55,-124.63,13,94.81,Social,South,0,False,261.55
+15031,510.39,-56.86,44,81.72,Referral,South,1,False,510.39
+15044,270.11,-218.08,10,75.97,Referral,East,0,False,270.11
+15056,237.13,-44.34,13,109.84,Paid Search,South,0,False,237.13
+15066,315.0,-112.03,9,84.2,Social,West,0,False,315.0
+15073,749.2,99.78,56,88.93,Organic,East,1,True,7.51
+15078,354.27,-128.69,9,130.35,Paid Search,West,0,False,354.27
+15081,241.92,-108.62,15,80.75,Organic,West,0,False,241.92
+15088,731.17,-121.27,47,70.2,Paid Search,North,1,False,731.17
+15092,270.31,-141.58,11,92.79,Paid Search,South,0,False,270.31
+15127,271.46,-116.2,11,76.22,Organic,South,0,False,271.46
+15136,304.46,-208.3,7,90.17,Organic,North,0,False,304.46
+15137,352.05,-105.8,16,66.4,Social,East,0,False,352.05
+15142,250.27,33.29,12,101.97,Referral,North,0,True,7.52
+15150,289.66,-77.8,12,93.37,Paid Search,North,0,False,289.66
+15153,978.62,-595.18,45,88.57,Organic,South,1,False,978.62
+15157,697.39,69.19,48,88.82,Organic,South,1,True,10.08
+15159,351.36,-47.7,9,113.4,Organic,North,0,False,351.36
+15164,522.23,15.7,48,78.65,Organic,East,1,True,33.26
+15174,246.42,-5.77,9,97.01,Paid Search,North,0,False,246.42
+15187,461.01,33.4,42,95.12,Paid Search,North,1,True,13.8
+15198,845.77,-300.27,56,96.37,Organic,North,1,False,845.77
+15202,631.32,-212.11,47,79.09,Social,North,1,False,631.32
+15206,236.36,-83.84,14,103.38,Paid Search,East,0,False,236.36
+15214,816.89,288.7,53,69.26,Paid Search,South,1,True,2.83
+15216,259.98,6.16,12,84.12,Social,East,0,True,42.2
+15221,239.53,-74.78,16,89.65,Referral,South,0,False,239.53
+15228,326.14,-92.71,13,83.59,Organic,South,0,False,326.14
+15229,574.52,24.3,46,90.75,Organic,East,1,True,23.64
+15244,268.53,-155.38,14,72.79,Organic,East,0,False,268.53
+15263,279.55,-111.61,11,73.11,Organic,North,0,False,279.55
+15281,244.72,-173.76,10,89.61,Paid Search,North,0,False,244.72
+15303,819.94,-36.25,50,78.87,Organic,West,1,False,819.94
+15311,282.02,-283.53,13,92.67,Paid Search,East,0,False,282.02
+15319,265.8,-166.64,12,82.13,Paid Search,South,0,False,265.8
+15321,364.73,-305.82,14,81.23,Paid Search,South,0,False,364.73
+15331,289.74,-59.28,11,120.45,Paid Search,North,0,False,289.74
+15338,1102.15,-90.13,57,79.93,Organic,East,1,False,1102.15
+15357,878.63,-122.19,42,88.19,Organic,East,1,False,878.63
+15386,661.43,-342.14,47,84.09,Paid Search,North,1,False,661.43
+15405,338.35,-15.48,13,109.33,Organic,South,0,False,338.35
+15410,267.06,23.14,9,107.0,Paid Search,North,0,True,11.54
+15413,609.36,380.68,57,95.91,Organic,North,1,True,1.6
+15430,246.39,-86.62,11,64.97,Paid Search,West,0,False,246.39
+15436,990.52,-116.68,60,81.59,Social,North,1,False,990.52
+15439,424.03,181.8,38,88.13,Social,North,1,True,2.33
+15442,850.76,98.95,55,89.82,Referral,East,1,True,8.6
+15443,242.12,-154.15,8,73.36,Organic,South,0,False,242.12
+15455,671.98,-256.99,51,87.47,Paid Search,North,1,False,671.98
+15475,241.48,25.46,15,80.67,Referral,East,0,True,9.48
+15477,247.69,-32.23,8,106.92,Paid Search,West,0,False,247.69
+15486,247.29,-127.62,8,84.3,Referral,East,0,False,247.29
+15506,681.84,-277.46,57,94.75,Organic,South,1,False,681.84
+15507,864.67,-618.6,56,80.98,Referral,East,1,False,864.67
+15510,679.3,68.55,53,84.07,Paid Search,West,1,True,9.91
+15532,750.19,-437.53,53,83.58,Paid Search,South,1,False,750.19
+15533,770.33,-301.38,41,107.33,Referral,South,1,False,770.33
+15539,285.49,-308.67,11,73.03,Paid Search,West,0,False,285.49
+15547,252.03,-34.73,11,86.81,Social,North,0,False,252.03
+15548,565.63,308.13,51,86.09,Paid Search,East,1,True,1.84
+15554,242.46,19.64,10,70.83,Organic,East,0,True,12.35
+15562,307.51,-222.0,12,107.62,Paid Search,South,0,False,307.51
+15567,290.55,-154.09,13,67.81,Paid Search,West,0,False,290.55
+15569,234.61,-130.35,13,85.96,Organic,East,0,False,234.61
+15590,277.22,-176.93,10,87.73,Paid Search,South,0,False,277.22
+15596,304.92,-186.96,8,94.74,Organic,East,0,False,304.92
+15598,264.56,-129.58,10,76.16,Organic,East,0,False,264.56
+15606,245.5,-139.73,10,70.13,Paid Search,South,0,False,245.5
+15614,731.33,-182.89,53,84.48,Paid Search,East,1,False,731.33
+15646,243.98,-51.14,10,86.79,Paid Search,North,0,False,243.98
+15649,745.11,2.75,50,89.35,Paid Search,East,1,True,270.95
+15662,250.42,75.33,13,83.35,Paid Search,North,0,True,3.32
+15669,711.44,-50.7,50,82.28,Referral,East,1,False,711.44
+15681,444.55,-303.99,14,95.83,Referral,West,0,False,444.55
+15687,443.95,218.78,44,102.51,Organic,North,1,True,2.03
+15690,264.14,-257.34,9,55.13,Paid Search,East,0,False,264.14
+15701,701.45,-59.78,53,90.81,Paid Search,South,1,False,701.45
+15706,438.22,284.43,41,87.29,Paid Search,South,1,True,1.54
+15711,375.34,286.16,45,78.25,Paid Search,East,1,True,1.31
+15728,574.96,-323.2,38,78.04,Paid Search,North,1,False,574.96
+15731,232.65,-123.94,7,93.75,Paid Search,North,0,False,232.65
+15748,286.09,-88.82,9,80.23,Organic,East,0,False,286.09
+15762,435.41,547.77,47,92.86,Paid Search,South,1,True,0.79
+15766,264.13,135.44,14,107.35,Social,West,0,True,1.95
+15768,243.47,-156.47,10,81.26,Paid Search,North,0,False,243.47
+15782,667.93,-169.27,49,89.1,Organic,North,1,False,667.93
+15784,257.68,-256.99,10,71.74,Paid Search,North,0,False,257.68
+15790,359.4,-206.09,13,92.83,Paid Search,North,0,False,359.4
+15792,620.28,-293.62,34,85.77,Paid Search,West,1,False,620.28
+15802,291.15,43.77,9,110.71,Paid Search,South,0,True,6.65
+15812,508.07,640.63,53,89.54,Paid Search,West,1,True,0.79
+15827,448.76,81.0,42,86.62,Paid Search,West,1,True,5.54
+15828,699.7,-408.95,52,71.76,Paid Search,West,1,False,699.7
+15829,863.95,-240.99,44,83.97,Paid Search,South,1,False,863.95
+15832,232.24,-385.5,9,96.08,Organic,South,0,False,232.24
+15848,593.0,141.7,39,83.16,Social,North,1,True,4.18
+15856,508.76,183.58,48,99.13,Referral,West,1,True,2.77
+15859,778.78,344.2,52,81.43,Social,North,1,True,2.26
+15869,575.82,-152.42,35,86.38,Referral,West,1,False,575.82
+15883,252.97,-41.79,10,97.54,Organic,South,0,False,252.97
+15909,852.86,356.5,70,77.23,Social,South,1,True,2.39
+15911,575.63,45.53,46,94.63,Paid Search,South,1,True,12.64
+15916,658.99,136.86,49,83.25,Paid Search,South,1,True,4.82
+15919,297.7,-194.41,10,79.22,Organic,South,0,False,297.7
+15952,245.54,-98.28,8,93.04,Organic,East,0,False,245.54
+15953,810.44,-585.43,46,82.33,Social,North,1,False,810.44
+15959,859.04,-83.98,49,80.3,Social,North,1,False,859.04
+15975,833.42,17.35,57,89.7,Paid Search,East,1,True,48.04
+15977,774.89,-660.03,52,77.63,Paid Search,West,1,False,774.89
+15984,533.55,-122.91,45,74.05,Paid Search,North,1,False,533.55
+15988,475.13,57.9,42,92.09,Social,West,1,True,8.21
+15990,247.54,0.35,11,123.0,Paid Search,East,0,True,247.54
+15994,600.77,53.67,47,89.69,Organic,West,1,True,11.19
+16011,472.47,756.14,44,88.02,Organic,East,1,True,0.62
+16017,260.0,-160.73,9,71.86,Social,East,0,False,260.0
+16020,1124.93,-378.96,48,100.68,Paid Search,East,1,False,1124.93
+16029,234.88,-127.08,12,77.53,Paid Search,West,0,False,234.88
+16034,236.65,-147.07,10,69.27,Social,South,0,False,236.65
+16038,861.28,-424.47,48,83.73,Paid Search,West,1,False,861.28
+16039,734.19,167.67,47,95.39,Paid Search,South,1,True,4.38
+16043,297.16,630.03,42,95.66,Paid Search,East,1,True,0.47
+16047,235.5,-91.4,12,100.56,Paid Search,East,0,False,235.5
+16057,257.65,-191.51,12,78.38,Organic,East,0,False,257.65
+16060,664.62,569.74,47,85.78,Social,West,1,True,1.17
+16072,688.05,257.7,54,80.93,Paid Search,West,1,True,2.67
+16084,272.14,-162.37,6,106.58,Paid Search,North,0,False,272.14
+16114,646.01,-43.7,40,103.8,Organic,South,1,False,646.01
+16142,272.95,-10.92,15,76.02,Organic,South,0,False,272.95
+16146,719.79,-119.74,42,80.34,Referral,South,1,False,719.79
+16158,427.9,708.77,48,88.68,Organic,North,1,True,0.6
+16160,332.31,-201.41,11,82.27,Paid Search,South,0,False,332.31
+16171,598.43,266.6,41,92.12,Paid Search,West,1,True,2.24
+16188,243.93,10.5,14,104.11,Referral,South,0,True,23.23
+16197,579.05,235.67,46,89.25,Paid Search,West,1,True,2.46
+16219,659.91,-150.79,40,90.18,Organic,West,1,False,659.91
+16253,476.82,286.93,42,87.92,Organic,West,1,True,1.66
+16258,245.42,-162.64,6,54.02,Organic,East,0,False,245.42
+16259,738.88,288.14,55,76.06,Organic,South,1,True,2.56
+16262,607.31,-165.78,43,83.03,Organic,West,1,False,607.31
+16273,257.19,-191.18,13,74.75,Paid Search,West,0,False,257.19
+16275,499.14,132.4,43,92.3,Referral,South,1,True,3.77
+16279,258.43,-34.41,8,84.45,Paid Search,South,0,False,258.43
+16286,294.41,-192.55,13,80.12,Organic,South,0,False,294.41
+16292,608.68,203.97,39,83.39,Referral,East,1,True,2.98
+16296,591.35,-205.85,43,84.93,Social,South,1,False,591.35
+16312,240.87,-344.83,8,74.0,Organic,West,0,False,240.87
+16314,237.3,-32.51,12,80.17,Social,East,0,False,237.3
+16318,537.65,-348.88,45,76.9,Paid Search,North,1,False,537.65
+16322,789.73,89.53,44,102.64,Social,North,1,True,8.82
+16323,259.42,-240.4,11,93.13,Paid Search,North,0,False,259.42
+16333,262.92,-180.04,12,79.87,Paid Search,West,0,False,262.92
+16343,782.46,-274.74,46,88.34,Paid Search,East,1,False,782.46
+16366,524.21,112.06,41,79.39,Referral,North,1,True,4.68
+16368,324.44,-116.86,9,80.93,Organic,North,0,False,324.44
+16373,241.97,-205.03,9,61.26,Social,North,0,False,241.97
+16380,1174.36,-313.67,57,105.35,Organic,West,1,False,1174.36
+16382,249.15,-157.7,13,53.88,Paid Search,North,0,False,249.15
+16412,255.47,125.97,10,110.06,Paid Search,West,0,True,2.03
+16415,532.57,279.47,48,87.15,Paid Search,South,1,True,1.91
+16418,448.01,272.07,49,83.22,Social,South,1,True,1.65
+16433,316.71,-210.68,9,69.92,Paid Search,North,0,False,316.71
+16444,298.98,-12.14,13,95.89,Paid Search,South,0,False,298.98
+16458,549.43,-299.64,41,80.3,Organic,East,1,False,549.43
+16477,708.0,144.52,47,100.16,Paid Search,East,1,True,4.9
+16485,282.15,91.3,14,100.42,Referral,East,0,True,3.09
+16486,532.65,161.48,39,91.47,Paid Search,West,1,True,3.3
+16489,759.0,163.25,49,108.72,Organic,North,1,True,4.65
+16500,528.91,350.36,41,99.05,Social,East,1,True,1.51
+16501,766.56,38.36,50,86.65,Referral,North,1,True,19.98
+16513,231.38,35.15,10,104.89,Paid Search,South,0,True,6.58
+16517,756.33,-21.44,61,72.52,Social,North,1,False,756.33
+16519,376.32,-69.33,44,66.34,Paid Search,West,1,False,376.32
+16526,1119.21,-637.83,55,81.35,Organic,West,1,False,1119.21
+16535,246.26,-0.49,11,112.83,Organic,North,0,False,246.26
+16536,503.6,129.75,34,88.33,Referral,South,1,True,3.88
+16547,234.28,-185.18,12,101.49,Referral,North,0,False,234.28
+16552,234.6,104.7,15,84.29,Paid Search,East,0,True,2.24
+16555,427.61,-417.11,14,90.86,Paid Search,South,0,False,427.61
+16556,337.75,-90.87,10,101.28,Social,West,0,False,337.75
+16571,236.06,-36.43,10,77.8,Organic,North,0,False,236.06
+16575,245.62,-168.36,11,71.8,Paid Search,East,0,False,245.62
+16583,303.68,-98.8,18,88.37,Social,East,0,False,303.68
+16597,278.09,-71.22,12,74.41,Organic,East,0,False,278.09
+16598,533.62,-408.83,38,78.92,Paid Search,West,1,False,533.62
+16602,689.18,104.92,57,91.45,Paid Search,South,1,True,6.57
+16608,774.97,-190.84,49,92.12,Paid Search,West,1,False,774.97
+16609,806.62,-750.58,47,83.07,Organic,West,1,False,806.62
+16610,630.08,0.21,46,89.37,Social,West,1,True,630.08
+16615,282.14,-97.52,9,88.63,Organic,South,0,False,282.14
+16616,249.86,-95.92,11,82.99,Organic,East,0,False,249.86
+16619,304.76,-189.96,10,101.66,Organic,North,0,False,304.76
+16620,293.31,-308.37,13,88.18,Paid Search,East,0,False,293.31
+16621,249.86,-130.47,12,77.6,Paid Search,West,0,False,249.86
+16627,728.8,69.9,51,85.78,Paid Search,South,1,True,10.43
+16640,436.04,-385.33,11,93.92,Referral,East,0,False,436.04
+16668,779.94,-118.0,50,86.12,Social,South,1,False,779.94
+16672,284.15,-110.17,12,67.72,Organic,South,0,False,284.15
+16673,298.72,-105.98,9,115.55,Paid Search,South,0,False,298.72
+16676,659.9,295.97,49,90.77,Paid Search,West,1,True,2.23
+16679,260.46,-222.32,14,80.8,Paid Search,South,0,False,260.46
+16684,1027.56,-234.38,54,96.53,Organic,East,1,False,1027.56
+16692,527.29,321.1,44,97.71,Paid Search,West,1,True,1.64
+16693,569.34,-239.72,39,83.76,Organic,East,1,False,569.34
+16695,528.43,92.85,47,85.37,Paid Search,South,1,True,5.69
+16704,327.68,-29.88,37,81.21,Paid Search,East,1,False,327.68
+16719,908.16,-185.78,62,79.17,Organic,West,1,False,908.16
+16724,640.6,5.41,43,90.41,Paid Search,South,1,True,118.41
+16736,230.9,-134.55,9,99.14,Paid Search,North,0,False,230.9
+16742,323.37,-214.78,12,77.62,Referral,North,0,False,323.37
+16746,311.38,-176.79,12,101.61,Paid Search,North,0,False,311.38
+16753,234.53,-6.4,13,100.88,Paid Search,North,0,False,234.53
+16760,631.36,-67.0,49,74.37,Paid Search,East,1,False,631.36
+16800,829.28,-404.15,56,85.77,Paid Search,East,1,False,829.28
+16808,243.85,-276.9,5,79.31,Organic,West,0,False,243.85
+16816,501.35,244.82,39,76.18,Paid Search,North,1,True,2.05
+16841,261.57,-336.74,11,79.18,Social,East,0,False,261.57
+16855,238.8,-181.79,12,70.47,Paid Search,East,0,False,238.8
+16878,565.54,342.52,46,78.99,Paid Search,East,1,True,1.65
+16884,975.12,214.08,71,84.74,Organic,North,1,True,4.55
+16885,593.47,-67.59,44,81.62,Social,East,1,False,593.47
+16887,335.26,-179.96,16,93.2,Organic,West,0,False,335.26
+16892,568.45,-280.01,43,80.91,Paid Search,East,1,False,568.45
+16894,246.77,-340.87,7,72.82,Paid Search,East,0,False,246.77
+16896,231.66,-143.66,9,67.5,Organic,East,0,False,231.66
+16901,556.76,-120.9,47,89.09,Referral,South,1,False,556.76
+16909,937.3,-485.3,53,82.03,Paid Search,South,1,False,937.3
+16913,243.95,-92.61,7,120.98,Organic,East,0,False,243.95
+16914,302.66,-184.21,7,55.0,Paid Search,West,0,False,302.66
+16957,260.29,-132.44,10,94.39,Organic,East,0,False,260.29
+17008,305.35,-152.78,9,86.23,Organic,West,0,False,305.35
+17019,722.99,-128.25,46,87.52,Organic,South,1,False,722.99
+17036,961.06,-492.45,51,89.51,Organic,South,1,False,961.06
+17045,641.22,313.13,52,83.14,Paid Search,North,1,True,2.05
+17056,279.97,71.21,14,80.84,Organic,East,0,True,3.93
+17066,279.16,-203.4,11,83.14,Referral,South,0,False,279.16
+17068,312.32,-239.31,11,56.47,Paid Search,East,0,False,312.32
+17084,238.49,-127.42,12,81.54,Organic,South,0,False,238.49
+17091,249.1,39.38,12,74.08,Paid Search,East,0,True,6.33
+17097,831.6,-31.13,59,87.31,Organic,West,1,False,831.6
+17113,321.15,-150.09,12,71.33,Paid Search,West,0,False,321.15
+17115,938.82,-629.4,59,80.77,Paid Search,North,1,False,938.82
+17118,341.79,-186.84,12,75.08,Paid Search,North,0,False,341.79
+17130,347.31,-323.17,4,55.24,Social,East,0,False,347.31
+17134,277.64,-31.66,14,87.87,Paid Search,East,0,False,277.64
+17136,243.58,-138.1,10,74.77,Referral,South,0,False,243.58
+17141,237.49,8.97,13,93.69,Paid Search,South,0,True,26.48
+17151,883.28,-472.0,57,86.99,Paid Search,East,1,False,883.28
+17152,309.61,-144.06,13,87.4,Paid Search,East,0,False,309.61
+17179,950.39,-63.21,64,99.85,Referral,East,1,False,950.39
+17182,274.51,43.3,13,100.65,Organic,East,0,True,6.34
+17184,235.51,-50.3,11,78.56,Paid Search,East,0,False,235.51
+17187,321.09,-84.09,15,83.5,Referral,South,0,False,321.09
+17192,928.53,-810.53,54,85.9,Paid Search,West,1,False,928.53
+17219,626.94,-53.39,50,72.54,Paid Search,South,1,False,626.94
+17221,826.8,104.31,58,79.27,Paid Search,East,1,True,7.93
+17222,277.41,-187.14,15,65.05,Organic,East,0,False,277.41
+17223,751.4,-111.63,42,80.56,Organic,East,1,False,751.4
+17250,272.6,-221.18,12,88.57,Referral,West,0,False,272.6
+17254,230.87,-238.28,10,92.86,Referral,North,0,False,230.87
+17259,580.37,-217.92,51,74.84,Organic,West,1,False,580.37
+17271,582.45,-102.87,48,74.79,Paid Search,North,1,False,582.45
+17279,305.1,-103.75,17,70.26,Organic,West,0,False,305.1
+17281,238.01,-22.5,9,102.02,Referral,East,0,False,238.01
+17282,242.1,-155.46,10,112.65,Social,East,0,False,242.1
+17288,237.61,-110.53,10,82.58,Organic,North,0,False,237.61
+17310,259.27,54.34,12,89.86,Organic,East,0,True,4.77
+17317,259.49,-208.42,7,73.59,Organic,East,0,False,259.49
+17319,551.93,-232.0,47,95.15,Paid Search,North,1,False,551.93
+17320,256.68,-147.98,11,81.09,Referral,East,0,False,256.68
+17328,466.3,428.71,51,83.57,Organic,North,1,True,1.09
+17334,804.4,58.77,55,108.03,Organic,West,1,True,13.69
+17336,678.98,-290.58,36,98.4,Paid Search,West,1,False,678.98
+17339,252.47,-55.41,14,91.79,Referral,North,0,False,252.47
+17340,271.85,-21.07,9,80.81,Paid Search,West,0,False,271.85
+17341,305.42,-389.86,10,80.1,Paid Search,West,0,False,305.42
+17352,256.04,43.02,13,103.68,Organic,West,0,True,5.95
+17354,286.46,-111.44,11,78.51,Referral,West,0,False,286.46
+17370,357.01,-102.28,12,77.54,Organic,South,0,False,357.01
+17379,258.3,-198.46,15,85.72,Paid Search,West,0,False,258.3
+17382,232.26,-26.51,15,96.86,Paid Search,South,0,False,232.26
+17390,656.91,562.61,53,89.36,Paid Search,East,1,True,1.17
+17391,246.17,-111.3,11,90.94,Organic,South,0,False,246.17
+17400,287.95,-208.21,11,95.23,Organic,East,0,False,287.95
+17419,419.3,-235.72,45,70.58,Organic,South,1,False,419.3
+17426,260.04,57.25,14,79.11,Social,West,0,True,4.54
+17428,358.62,768.02,41,84.01,Paid Search,West,1,True,0.47
+17442,331.01,49.69,40,82.81,Paid Search,East,1,True,6.66
+17447,290.72,-160.24,10,84.14,Referral,East,0,False,290.72
+17457,758.13,-310.37,40,95.81,Paid Search,North,1,False,758.13
+17475,265.24,-124.03,7,92.37,Organic,South,0,False,265.24
+17482,743.82,-211.77,42,91.68,Referral,West,1,False,743.82
+17516,265.64,-120.7,13,104.78,Paid Search,North,0,False,265.64
+17524,240.72,-126.65,13,64.76,Referral,South,0,False,240.72
+17534,249.07,-171.69,12,104.74,Referral,North,0,False,249.07
+17554,582.07,228.77,54,86.72,Referral,North,1,True,2.54
+17555,248.78,-4.03,14,86.42,Paid Search,North,0,False,248.78
+17556,284.75,-169.54,11,70.44,Paid Search,North,0,False,284.75
+17565,252.64,-115.34,11,70.66,Referral,South,0,False,252.64
+17571,237.34,-66.31,5,112.58,Referral,West,0,False,237.34
+17573,398.46,-54.47,45,77.67,Organic,East,1,False,398.46
+17580,629.29,-128.99,47,79.93,Paid Search,South,1,False,629.29
+17593,257.29,13.46,11,94.34,Paid Search,North,0,True,19.12
+17596,242.3,-9.99,15,91.21,Paid Search,South,0,False,242.3
+17617,437.95,475.9,44,88.86,Organic,South,1,True,0.92
+17629,269.06,20.34,16,80.66,Paid Search,North,0,True,13.23
+17664,266.59,-187.13,8,113.25,Organic,South,0,False,266.59
+17686,634.13,-171.61,40,90.63,Paid Search,East,1,False,634.13
+17687,590.36,561.3,52,82.61,Paid Search,West,1,True,1.05
+17702,647.74,187.0,40,82.0,Organic,East,1,True,3.46
+17723,246.3,-73.39,7,91.42,Paid Search,North,0,False,246.3
+17724,261.86,-153.44,8,73.66,Social,South,0,False,261.86
+17726,262.78,-182.27,9,68.82,Referral,South,0,False,262.78
+17735,231.32,-308.34,8,91.25,Referral,West,0,False,231.32
+17743,298.63,16.24,11,105.45,Paid Search,South,0,True,18.39
+17754,265.15,-72.02,8,115.48,Organic,West,0,False,265.15
+17775,244.0,-319.19,11,95.24,Paid Search,South,0,False,244.0
+17776,651.91,-721.16,46,79.96,Social,North,1,False,651.91
+17779,252.32,-179.22,11,85.29,Referral,North,0,False,252.32
+17800,658.41,-185.15,55,89.66,Paid Search,East,1,False,658.41
+17804,679.58,-55.11,44,89.47,Paid Search,North,1,False,679.58
+17806,257.43,-182.46,12,82.03,Paid Search,West,0,False,257.43
+17810,673.0,181.65,47,81.99,Social,East,1,True,3.7
+17811,349.08,290.14,35,100.1,Referral,East,1,True,1.2
+17828,321.84,-127.29,12,90.66,Organic,East,0,False,321.84
+17843,328.74,-192.53,13,105.54,Referral,West,0,False,328.74
+17845,253.64,81.6,15,96.09,Paid Search,South,0,True,3.11
+17873,233.34,-196.27,9,72.17,Organic,East,0,False,233.34
+17905,620.81,158.11,48,88.28,Paid Search,North,1,True,3.93
+17924,769.57,190.42,59,87.55,Paid Search,North,1,True,4.04
+17926,305.8,-218.1,7,112.08,Referral,East,0,False,305.8
+17933,436.64,-72.99,39,79.57,Social,West,1,False,436.64
+17939,293.7,-216.25,10,67.53,Paid Search,East,0,False,293.7
+17944,562.37,-179.54,35,71.69,Paid Search,East,1,False,562.37
+17966,307.7,-74.32,13,119.27,Organic,North,0,False,307.7
+17973,525.98,344.8,46,71.89,Referral,East,1,True,1.53
+17976,465.44,132.38,31,91.49,Referral,West,1,True,3.52
+17978,666.99,191.36,50,79.86,Organic,West,1,True,3.49
+17994,295.19,-80.14,9,99.63,Referral,South,0,False,295.19
+18001,560.58,131.31,56,87.23,Paid Search,South,1,True,4.27
+18002,592.97,335.85,52,82.16,Organic,West,1,True,1.77
+18004,863.64,-141.21,57,81.45,Paid Search,North,1,False,863.64
+18008,348.46,10.51,15,108.41,Paid Search,South,0,True,33.16
+18012,239.58,7.71,9,127.55,Paid Search,North,0,True,31.07
+18014,485.36,76.81,43,89.84,Paid Search,West,1,True,6.32
+18015,632.24,-151.56,47,79.99,Organic,East,1,False,632.24
+18016,1063.48,-385.37,56,96.18,Referral,West,1,False,1063.48
+18031,709.91,-354.89,59,82.67,Organic,West,1,False,709.91
+18034,461.79,-183.15,32,84.24,Paid Search,East,1,False,461.79
+18037,742.51,-51.48,50,84.32,Referral,North,1,False,742.51
+18039,320.73,-357.19,14,76.9,Paid Search,West,0,False,320.73
+18051,809.12,262.5,52,79.11,Paid Search,West,1,True,3.08
+18059,514.35,-131.33,36,74.48,Social,West,1,False,514.35
+18063,287.23,-158.06,12,90.92,Organic,East,0,False,287.23
+18064,297.31,-22.89,15,94.93,Paid Search,North,0,False,297.31
+18079,301.35,-19.53,8,98.16,Paid Search,West,0,False,301.35
+18086,548.71,83.74,42,79.68,Paid Search,North,1,True,6.55
+18093,474.36,139.31,46,79.11,Organic,West,1,True,3.41
+18117,524.77,-577.71,39,84.69,Referral,North,1,False,524.77
+18118,585.31,-400.74,40,93.35,Organic,South,1,False,585.31
+18120,259.79,-65.25,14,94.52,Referral,North,0,False,259.79
+18150,309.61,-213.34,13,70.48,Organic,East,0,False,309.61
+18159,315.77,-62.89,16,103.64,Paid Search,South,0,False,315.77
+18164,681.74,47.9,53,80.27,Organic,North,1,True,14.23
+18179,337.08,-333.03,10,95.46,Social,West,0,False,337.08
+18196,236.82,47.88,11,107.74,Paid Search,South,0,True,4.95
+18199,274.28,-241.7,17,76.36,Referral,North,0,False,274.28
+18204,279.68,-22.3,13,91.61,Paid Search,North,0,False,279.68
+18209,645.17,-362.68,49,84.15,Organic,West,1,False,645.17
+18242,729.37,-310.79,38,82.22,Paid Search,North,1,False,729.37
+18252,398.96,204.93,45,82.52,Social,North,1,True,1.95
+18268,262.19,-178.99,5,67.05,Social,East,0,False,262.19
+18288,302.95,-142.57,8,104.1,Paid Search,East,0,False,302.95
+18291,406.5,-143.96,17,104.11,Paid Search,West,0,False,406.5
+18293,248.62,16.94,15,81.93,Paid Search,South,0,True,14.68
+18300,346.18,-237.98,15,86.32,Organic,East,0,False,346.18
+18308,347.89,-271.24,12,79.72,Organic,West,0,False,347.89
+18309,526.45,91.96,48,86.49,Referral,West,1,True,5.72
+18312,256.94,-114.11,11,84.96,Paid Search,South,0,False,256.94
+18324,271.17,-297.76,11,84.33,Organic,North,0,False,271.17
+18332,270.2,-131.83,13,75.29,Referral,West,0,False,270.2
+18345,251.67,-133.82,12,71.57,Paid Search,South,0,False,251.67
+18349,257.08,-120.27,11,101.97,Organic,West,0,False,257.08
+18361,261.68,71.39,13,87.02,Paid Search,East,0,True,3.67
+18367,249.58,-252.3,11,105.69,Social,South,0,False,249.58
+18374,558.03,80.9,37,97.88,Social,West,1,True,6.9
+18378,771.26,-33.1,53,77.98,Paid Search,South,1,False,771.26
+18398,684.44,75.22,45,104.6,Social,North,1,True,9.1
+18421,612.91,46.25,44,85.11,Referral,South,1,True,13.25
+18424,489.54,-276.22,39,89.06,Paid Search,East,1,False,489.54
+18441,883.84,-38.54,55,79.26,Organic,West,1,False,883.84
+18448,786.93,-59.44,51,83.77,Social,West,1,False,786.93
+18483,250.26,-209.18,7,91.56,Referral,South,0,False,250.26
+18485,752.91,-258.04,51,73.17,Referral,West,1,False,752.91
+18498,307.34,15.79,17,68.42,Organic,West,0,True,19.46
+18513,722.32,148.96,53,108.98,Paid Search,East,1,True,4.85
+18515,461.47,-253.01,42,80.33,Organic,South,1,False,461.47
+18520,241.2,30.39,14,78.88,Paid Search,North,0,True,7.94
+18549,874.66,-105.16,71,100.83,Social,North,1,False,874.66
+18561,689.88,-376.25,56,94.0,Paid Search,North,1,False,689.88
+18572,354.53,-150.12,10,87.44,Paid Search,West,0,False,354.53
+18576,266.6,-22.23,12,91.77,Paid Search,North,0,False,266.6
+18590,236.49,-27.9,13,117.89,Paid Search,North,0,False,236.49
+18598,533.06,355.45,48,91.74,Paid Search,South,1,True,1.5
+18617,266.04,-343.03,11,59.64,Paid Search,East,0,False,266.04
+18622,296.15,-244.28,13,85.14,Paid Search,East,0,False,296.15
+18627,414.55,302.73,37,75.67,Organic,North,1,True,1.37
+18632,275.0,-421.79,6,95.41,Social,North,0,False,275.0
+18642,317.99,-11.58,13,115.96,Paid Search,South,0,False,317.99
+18645,895.03,-179.75,50,101.72,Organic,North,1,False,895.03
+18653,263.36,-274.52,13,85.24,Paid Search,South,0,False,263.36
+18654,231.51,-141.56,10,93.72,Social,South,0,False,231.51
+18679,253.51,-286.19,8,94.4,Referral,South,0,False,253.51
+18681,233.16,-78.03,10,87.18,Social,East,0,False,233.16
+18698,265.27,-1.44,13,86.67,Organic,North,0,False,265.27
+18699,611.33,50.12,50,82.77,Organic,North,1,True,12.2
+18704,628.12,-454.72,42,81.97,Paid Search,West,1,False,628.12
+18709,232.47,-228.32,7,64.18,Social,West,0,False,232.47
+18712,295.22,-3.56,16,86.53,Paid Search,West,0,False,295.22
+18714,720.86,-339.26,55,90.32,Paid Search,North,1,False,720.86
+18715,341.66,-198.41,8,71.56,Paid Search,North,0,False,341.66
+18720,774.45,-220.36,51,90.07,Organic,North,1,False,774.45
+18725,788.57,-189.06,44,70.21,Organic,North,1,False,788.57
+18731,950.87,-28.13,52,99.56,Paid Search,East,1,False,950.87
+18746,730.33,8.51,54,84.93,Paid Search,West,1,True,85.82
+18752,254.22,15.57,14,90.85,Social,South,0,True,16.33
+18757,677.25,477.3,55,87.48,Organic,East,1,True,1.42
+18776,585.65,-221.97,50,71.5,Paid Search,South,1,False,585.65
+18777,325.75,-266.99,11,79.38,Referral,North,0,False,325.75
+18787,786.54,262.9,52,82.97,Social,West,1,True,2.99
+18794,300.47,-260.5,7,63.93,Organic,West,0,False,300.47
+18800,231.94,-150.89,8,88.41,Organic,South,0,False,231.94
+18813,656.88,279.77,56,81.19,Organic,East,1,True,2.35
+18827,254.48,-65.2,11,88.4,Organic,South,0,False,254.48
+18828,252.53,-254.32,14,86.01,Organic,West,0,False,252.53
+18835,507.7,10.27,39,80.97,Organic,North,1,True,49.44
+18842,889.71,-540.98,56,86.88,Paid Search,West,1,False,889.71
+18848,461.38,144.21,42,89.82,Paid Search,North,1,True,3.2
+18852,806.33,434.3,69,74.66,Paid Search,South,1,True,1.86
+18872,267.08,-217.74,9,73.08,Organic,South,0,False,267.08
+18878,239.84,-161.6,12,90.12,Paid Search,East,0,False,239.84
+18885,240.09,-153.22,12,71.11,Paid Search,East,0,False,240.09
+18889,596.78,-163.5,39,94.42,Paid Search,South,1,False,596.78
+18904,299.09,-76.16,12,84.77,Referral,North,0,False,299.09
+18911,263.47,-79.56,12,82.77,Organic,West,0,False,263.47
+18918,731.32,-362.28,48,86.51,Paid Search,North,1,False,731.32
+18919,889.11,-384.84,59,82.58,Paid Search,North,1,False,889.11
+18925,286.97,-91.99,13,91.56,Organic,West,0,False,286.97
+18944,778.77,-323.38,49,94.63,Social,West,1,False,778.77
+18970,253.02,-3.86,16,76.26,Referral,North,0,False,253.02
+18976,500.98,-515.4,20,88.05,Paid Search,South,0,False,500.98
+18986,239.29,-109.17,10,106.65,Social,North,0,False,239.29
+18995,279.11,-2.13,14,93.3,Social,South,0,False,279.11
+18996,275.01,-75.6,10,68.97,Paid Search,East,0,False,275.01
+19006,237.06,-200.5,11,73.32,Paid Search,North,0,False,237.06
+19007,248.82,68.13,18,89.59,Paid Search,South,0,True,3.65
+19012,321.15,-199.61,15,71.8,Organic,West,0,False,321.15
+19013,262.05,-40.11,9,89.11,Paid Search,East,0,False,262.05
+19017,242.82,-6.01,12,75.36,Organic,East,0,False,242.82
+19024,258.34,-373.24,10,96.16,Social,East,0,False,258.34
+19033,352.57,-173.74,12,91.57,Paid Search,North,0,False,352.57
+19034,507.48,-130.86,45,87.03,Social,South,1,False,507.48
+19039,285.37,-127.92,13,96.31,Referral,West,0,False,285.37
+19040,706.35,287.71,57,83.88,Referral,South,1,True,2.46
+19043,514.13,418.05,48,76.13,Organic,East,1,True,1.23
+19055,280.91,-173.12,10,94.38,Paid Search,North,0,False,280.91
+19063,449.24,-22.38,40,98.95,Paid Search,East,1,False,449.24
+19084,281.71,-186.29,12,63.92,Paid Search,North,0,False,281.71
+19087,267.79,-13.28,12,78.12,Organic,North,0,False,267.79
+19090,438.46,-43.51,40,79.17,Social,East,1,False,438.46
+19097,553.82,-564.01,39,82.81,Social,South,1,False,553.82
+19118,351.28,5.93,14,92.36,Paid Search,North,0,True,59.24
+19123,256.72,-94.39,16,68.46,Paid Search,East,0,False,256.72
+19129,1069.82,-428.32,45,94.96,Organic,South,1,False,1069.82
+19134,491.55,183.49,46,82.49,Organic,South,1,True,2.68
+19152,708.47,-364.15,48,83.11,Organic,West,1,False,708.47
+19154,340.56,-90.5,12,87.6,Organic,South,0,False,340.56
+19155,323.39,-95.73,12,96.17,Paid Search,East,0,False,323.39
+19157,297.71,-151.47,11,85.66,Paid Search,West,0,False,297.71
+19159,656.12,398.82,49,93.38,Referral,West,1,True,1.65
+19162,366.81,59.66,22,96.68,Organic,East,0,True,6.15
+19176,242.71,-178.77,8,88.67,Organic,South,0,False,242.71
+19177,314.15,288.28,39,90.73,Organic,South,1,True,1.09
+19183,726.21,175.61,48,101.81,Referral,North,1,True,4.14
+19185,269.61,-98.1,10,84.71,Paid Search,South,0,False,269.61
+19188,420.73,0.86,40,72.0,Social,North,1,True,420.73
+19223,272.87,-90.66,9,103.1,Organic,East,0,False,272.87
+19225,562.13,329.66,49,84.17,Organic,North,1,True,1.71
+19229,257.46,-78.21,11,78.25,Paid Search,North,0,False,257.46
+19230,826.72,-68.26,53,82.66,Paid Search,East,1,False,826.72
+19235,775.3,-348.5,59,74.01,Organic,East,1,False,775.3
+19239,975.39,-478.12,51,82.67,Organic,East,1,False,975.39
+19243,699.4,94.72,57,78.37,Organic,East,1,True,7.38
+19248,466.05,298.61,41,80.93,Organic,South,1,True,1.56
+19256,372.34,-147.07,13,87.92,Paid Search,North,0,False,372.34
+19265,252.47,-71.6,9,90.12,Referral,South,0,False,252.47
+19269,612.16,122.88,46,81.55,Paid Search,West,1,True,4.98
+19274,924.87,-273.72,42,79.36,Social,West,1,False,924.87
+19282,727.12,-411.38,52,104.27,Paid Search,East,1,False,727.12
+19293,260.18,-149.69,12,74.81,Organic,North,0,False,260.18
+19298,242.79,-15.45,12,96.5,Referral,East,0,False,242.79
+19305,783.25,30.17,53,96.23,Organic,South,1,True,25.96
+19335,289.27,-322.57,8,73.1,Referral,North,0,False,289.27
+19339,278.09,-129.86,13,72.04,Paid Search,West,0,False,278.09
+19347,801.78,-196.83,48,77.59,Paid Search,West,1,False,801.78
+19353,256.53,-10.5,14,71.51,Organic,North,0,False,256.53
+19385,648.24,-274.04,45,87.99,Referral,North,1,False,648.24
+19419,264.95,184.93,16,92.28,Paid Search,West,0,True,1.43
+19421,235.11,-156.97,4,96.68,Paid Search,South,0,False,235.11
+19429,487.88,113.27,41,87.38,Paid Search,West,1,True,4.31
+19450,573.37,297.35,47,79.62,Organic,South,1,True,1.93
+19451,568.84,254.6,49,84.69,Paid Search,West,1,True,2.23
+19459,286.52,-190.9,8,60.21,Organic,North,0,False,286.52
+19467,273.94,-138.12,12,90.34,Referral,West,0,False,273.94
+19472,641.0,-90.49,44,93.56,Organic,East,1,False,641.0
+19498,959.69,-336.54,51,97.55,Referral,South,1,False,959.69
+19516,640.25,-174.92,47,83.18,Paid Search,South,1,False,640.25
+19519,242.53,-154.42,6,64.98,Social,West,0,False,242.53
+19543,719.21,-32.71,33,78.35,Referral,North,1,False,719.21
+19561,550.45,40.98,46,86.69,Organic,West,1,True,13.43
+19577,767.34,275.03,64,87.27,Organic,West,1,True,2.79
+19589,413.32,328.61,43,83.72,Organic,South,1,True,1.26
+19605,750.64,-323.77,45,91.56,Paid Search,South,1,False,750.64
+19617,234.01,-317.19,12,69.38,Paid Search,North,0,False,234.01
+19627,279.72,-72.03,9,89.07,Social,West,0,False,279.72
+19629,321.32,-391.46,11,77.11,Paid Search,North,0,False,321.32
+19638,255.82,-1.52,13,64.07,Organic,West,0,False,255.82
+19644,586.37,-53.9,46,78.11,Paid Search,South,1,False,586.37
+19648,485.71,214.23,44,93.22,Organic,South,1,True,2.27
+19661,232.85,-137.12,5,101.91,Social,North,0,False,232.85
+19677,766.98,-674.16,53,77.66,Paid Search,East,1,False,766.98
+19681,943.03,-46.7,60,82.31,Paid Search,East,1,False,943.03
+19706,548.59,176.51,45,82.01,Paid Search,West,1,True,3.11
+19707,289.93,-247.06,14,83.53,Paid Search,East,0,False,289.93
+19725,283.6,-75.99,7,104.31,Paid Search,North,0,False,283.6
+19733,246.26,-55.07,11,76.33,Social,South,0,False,246.26
+19738,257.77,-208.36,11,69.79,Organic,South,0,False,257.77
+19750,670.73,-305.58,40,65.55,Paid Search,South,1,False,670.73
+19755,250.55,-109.83,11,98.97,Paid Search,West,0,False,250.55
+19810,640.03,-122.22,43,68.7,Organic,East,1,False,640.03
+19836,242.86,-56.32,14,64.65,Paid Search,North,0,False,242.86
+19843,780.06,80.45,55,89.83,Organic,North,1,True,9.7
+19866,698.73,-48.05,59,87.24,Paid Search,East,1,False,698.73
+19873,235.59,-21.26,12,72.7,Paid Search,South,0,False,235.59
+19887,237.84,-234.79,9,60.81,Paid Search,West,0,False,237.84
+19895,1064.12,-212.41,51,73.36,Organic,East,1,False,1064.12
+19928,334.22,-76.64,13,84.15,Paid Search,East,0,False,334.22
+19961,588.05,-237.96,40,68.38,Paid Search,West,1,False,588.05
+19965,824.14,-89.93,56,83.7,Referral,North,1,False,824.14
+19967,844.97,-176.97,53,89.58,Referral,East,1,False,844.97
+19989,299.61,-126.8,8,72.48,Social,South,0,False,299.61

@@ -1,0 +1,18 @@
+scenario,category,lever,lever_value,baseline_margin,new_margin,margin_delta,margin_delta_pct,new_margin_pct,rank
+"Remove all loss orders (88,090 orders)",Order Strategy,remove_loss_orders,1.0,-105048.22,2228228.2,2333276.42,2221.15,14.0,1
+"Combined: +5% price, -15% support, remove deep losses",Combined,combined,1.0,-105048.22,2209640.94,2314689.16,2203.45,13.88,2
+Price increase 10%,Pricing,price_increase_pct,0.1,-105048.22,1486614.9,1591663.12,1515.17,9.34,3
+"Remove deep loss orders only (<-50 margin, 14,732 orders)",Order Strategy,remove_deep_loss_orders,-50.0,-105048.22,1204249.46,1309297.68,1246.38,7.57,4
+Price increase 8%,Pricing,price_increase_pct,0.08,-105048.22,1168282.28,1273330.5,1212.14,7.34,5
+"Remove loss-making Standard orders (61,249 orders)",Order Strategy,remove_standard_losses,1.0,-105048.22,1123644.88,1228693.1,1169.65,7.06,6
+Delivery cost -25%,Cost Reduction,delivery_cost_reduction_pct,0.25,-105048.22,983037.5,1088085.72,1035.8,6.18,7
+Delivery cost -20%,Cost Reduction,delivery_cost_reduction_pct,0.2,-105048.22,765420.36,870468.58,828.64,4.81,8
+Price increase 5%,Pricing,price_increase_pct,0.05,-105048.22,690783.34,795831.56,757.59,4.34,9
+Support cost -25%,Cost Reduction,support_cost_reduction_pct,0.25,-105048.22,589488.93,694537.15,661.16,3.7,10
+Delivery cost -15%,Cost Reduction,delivery_cost_reduction_pct,0.15,-105048.22,547803.21,652851.43,621.48,3.44,11
+Support cost -20%,Cost Reduction,support_cost_reduction_pct,0.2,-105048.22,450581.5,555629.72,528.93,2.83,12
+Delivery cost -10%,Cost Reduction,delivery_cost_reduction_pct,0.1,-105048.22,330186.07,435234.29,414.32,2.07,13
+Support cost -15%,Cost Reduction,support_cost_reduction_pct,0.15,-105048.22,311674.07,416722.29,396.7,1.96,14
+Price increase 2%,Pricing,price_increase_pct,0.02,-105048.22,213284.4,318332.62,303.03,1.34,15
+Support cost -10%,Cost Reduction,support_cost_reduction_pct,0.1,-105048.22,172766.64,277814.86,264.46,1.09,16
+"Reallocate 30% Paid Search → Organic (26,868 orders)",Channel Strategy,channel_reallocation_pct,0.3,-105048.22,-65642.97,39405.25,37.51,-0.41,17

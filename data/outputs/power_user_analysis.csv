@@ -1,0 +1,3 @@
+is_power_user,customers,orders,total_revenue,total_margin,avg_margin,avg_order_value,profitable_pct,high_support_pct,label,orders_per_customer,revenue_per_customer,margin_per_customer,revenue_share
+0,18990,152059,12093438.57,-78258.93,-0.51,84.59,0.56,0.04,,8.01,636.83,-4.12,75.98
+1,1000,47941,3823192.64,-26789.29,-0.56,84.92,0.56,0.04,,47.94,3823.19,-26.79,24.02
