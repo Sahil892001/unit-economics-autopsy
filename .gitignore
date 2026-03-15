@@ -26,7 +26,7 @@ ENV/
 # ── Data Files (raw & processed CSVs/DB — not for version control) ───────────
 data/raw/*.csv
 data/processed/*.csv
-data/outputs/*.csv
+# data/outputs/*.csv
 data/outputs/*.png
 data/*.db
 *.sqlite
